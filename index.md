@@ -38,7 +38,38 @@ The show will be double cast. We will have Cast Duloc and Cast Swamp. This year 
 * March 19, 2022 9:00am-12:00pm Dress rehearsal
 * March 21-25 2022 Performance Week!
 
+## Lead Roles
+* Shrek
+* Fiona
+  * Young Fiona
+  * Teen Fiona
+* Donkey
+* Dragon
+* Lord Farquaad
+* Fairy Tale Characters
+  * Story Teller 1-3
+  * Mama Ogre/Mama Bear
+  * Papa Ogre/Papa Bear
+  * Little Ogre/Baby Bear
+  * Pinocchio
+  * Big Bad Wolf/Dwarf
+  * Pig 1-3/Knight 1-3
+  * Wicked Witch/Knight 4
+  * Peter Pan/Pied Piper
+  * Ugly Duckling
+  * Gingy
+  * Captain of the Gaurd/Bishop
+
+
 ## Audition music
+### Shrek
+[Shrek PDF](/files/Shrek/auditions/Shrek.pdf)<br/>
+<div class="audio-player" data-show="Shrek" data-file="01 Big Bright Beautiful World.mp3" data-audition-start-at="189"></div>
+
+### Shrek and Fiona
+See Fiona or Shrek PDF for sheet music
+<div class="audio-player" data-show="Shrek" data-file="22 I Think I Got You Beat.mp3" data-audition-start-at="120"></div>
+
 ### Young Fiona
 [Young Fiona PDF](/files/Shrek/auditions/Young Fiona.pdf)<br/>
 <div class="audio-player" data-show="Shrek" data-file="12 I Know It's Today.mp3" data-audition-start-at="0"></div>
@@ -51,29 +82,25 @@ The show will be double cast. We will have Cast Duloc and Cast Swamp. This year 
 [Fiona PDF](/files/Shrek/auditions/Fiona.pdf)<br/>
 <div class="audio-player" data-show="Shrek" data-file="12 I Know It's Today.mp3" data-audition-start-at="83"></div>
 
-### Shrek and Fiona
-See Fiona or Shrek PDF for sheet music
-<div class="audio-player" data-show="Shrek" data-file="22 I Think I Got You Beat.mp3" data-audition-start-at="120"></div>
+### Donkey
+[Donkey PDF](/files/Shrek/auditions/Donkey.pdf)<br/>
+<div class="audio-player" data-show="Shrek" data-file="14 Travel Song.mp3" data-audition-start-at="0"></div>
 
 ### Dragon
 [Dragon PDF](/files/Shrek/auditions/Dragon.pdf)<br/>
 <div class="audio-player" data-show="Shrek" data-file="17 Forever.mp3" data-audition-start-at="114"></div>
 
-### Donkey
-[Donkey PDF](/files/Shrek/auditions/Donkey.pdf)<br/>
-<div class="audio-player" data-show="Shrek" data-file="14 Travel Song.mp3" data-audition-start-at="0"></div>
-
-### Fairy Tale Creatures
-[Fairy Tale Creatures PDF](/files/Shrek/auditions/Fairy Tale Creatures.pdf)<br/>
-<div class="audio-player" data-show="Shrek" data-file="03 Story Of My Life.mp3" data-audition-start-at="36"></div>
-
-### Shrek
-[Shrek PDF](/files/Shrek/auditions/Shrek.pdf)<br/>
-<div class="audio-player" data-show="Shrek" data-file="01 Big Bright Beautiful World.mp3" data-audition-start-at="189"></div>
-
 ### Farquaad
 [Farquaad PDF](/files/Shrek/auditions/Farquaad.pdf)<br/>
 <div class="audio-player" data-show="Shrek" data-file="08 What's Up, Duloc_ (Part 2).mp3" data-audition-start-at="55"></div>
+
+### Fairy Tale Characters
+[Fairy Tale Creatures PDF](/files/Shrek/auditions/Fairy Tale Creatures.pdf)<br/>
+<div class="audio-player" data-show="Shrek" data-file="03 Story Of My Life.mp3" data-audition-start-at="36"></div>
+
+
+
+
 
 
 <!--
