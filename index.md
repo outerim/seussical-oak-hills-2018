@@ -5,20 +5,162 @@ title: Oak Hills Musical 2021-2022
 <div class="updates" markdown="1">
 
 # Updates
-## Friday Nov. 19, 2021
+## Saturday Jan. 1, 2022
 * Welcome
-* Shrek the Musical Jr. Cast form
-* Shrek the Musical Jr. Parent Handout
-* Important dates
-* Audition music and PDF
-
+* Important dates updated
+* Cast lists
+* Updated Calendar
 </div>
 
 -----------
 
 ## Welcome!
-Parents and Students- we are so excited to be back the year! Shrek the Musical Jr. is such a great show and we can not wait to get started on it with you! If you are unfamiliar with this musical we encourage you to watch a recording of it on youtube and to start listening to the music as well.
-The show will be double cast. We will have Cast Duloc and Cast Swamp. This year one of the dress rehearsals will be on Saturday March. 19, 2022. All dress rehearsals are MANDATORY. If your student is auditioning for a lead you are committing at that point to a Saturday dress rehearsal. Rehearsals start Jan. 5, 2022. See important dates down below.
+Parents and Students- Wahoo!! It is time to kick off practices for Shrek Jr.! We are so excited to get started this coming week! The calendar will be updated every week so you will know right where to go in the building for rehearsals. The calendar can be found at the top of the website in the green/blue bar. When you click on the day of an event it will show who is called for the day and where that enseble will be rehearsing that day. Reminder that the rehearsals will either be in the gym, library, or computer portable. If you are in the portable please always come in through the school and go out the dock doors to get to the portable. Please DO NOT drive down the parking lot to the dock doors. There is limited space for turning around, will cause traffic jams, and create problems for the teaching staff to park. Always drop off out front at the main doors.
+
+The first 2 weeks everyone will be called Tuesday, Wednesday, and Thursday. We will be learning all the music, and bows. Starting Jan. 25th the students will be working with their individual ensemble directors.
+
+The cast lists have been posted. You can find your childs name, part, and ensemble color under either the Duloc or Swamp cast list. It is important for your child to know what ensemble color they are in. The youtube links for the show and the soundtracks are still on the website they have just been moved down to the bottom. Please still use the links especially as we are starting to learn the music this week. Parent handout and cast forms can also be found down below.  
+
+## Important dates
+* Wed. Jan. 5, 2022 7:30am Leads kick off morning. All leads called
+* Thurs. Jan. 6, 2022 7:30am Ensemble rehearsl begin 7
+* March 18, 2022 9:00am-12:00pm Dress rehearsal, 1:30-4:30pm Dress rehearsal
+* March 21-25 2022 Performance Week!
+
+## Cast Lists
+### Duloc cast
+
+#### Leads
+
+|Name|Part|Ensemble|
+|-----|-----|-----|
+| Minnie Collard    | Young Fiona    |
+| Zuri Monson       | Princess Fiona |
+| Blakely Nelson    | Donkey         |
+| Lucy Pace         | Teen Fiona     |
+| Sam Richards      | Shrek          |
+| Leilane Walker    | Dragon         |
+| Seth Wright       | Lord Farquaad  |
+| Eli Adams         | Big Bad Wolf/Dwarf      | Green    |
+| Emily Beveridge   | Pig 2                   | Green    |
+| Simon Brady       | Pinocchio               | Green    |
+| Emily Cannon      | Ugly Duckling           | Green    |
+| Taylor Duke       | Knight/Guard 3          | Red      |
+| Jake Findlay      | Captain Guard/Bishop    | Red      |
+| Corbin Heath      | Peter Pan/Pied Piper    | Green    |
+| Amelia Johnson    | Story Teller 1          | Green    |
+| Anna Klimt        | Knight/Guard 4          | Red      |
+| Molly Lynn        | Wicked Witch            | Green    |
+| Lou Morrow        | Gingy                   | Green    |
+| Mathias Morrow    | Papa Ogre/Papa Bear     | Green    |
+| Amelia Olsen      | Story Teller 3          | Green    |
+| Ivy Pace          | Pig 3                   | Green    |
+| Emma Pedersen     | Story Teller 2          | Green    |
+| Olivia Peterson   | Pig 1                   | Green    |
+| Violet Phillips   | Knight/Guard 1          | Red      |
+| Scarlet Rupp      | Mama Ogre/Mama Bear     | Green    |
+| Brooklyn Smith    | Knight/Guard 2          | Red      |
+| Maggie Winegar    | Little Ogre/Little Bear | Green    |
+
+
+#### Ensemble
+
+|Name|Part|Ensemble|
+|-----|-----|-----|
+| Lizzy Adams      | Dulocian             | Blue     |
+| Alyssa Bremner   | Dulocian             | Blue     |
+| Katherine Cannon | Dulocian             | Blue     |
+| Clara Davidson   | Dulocian             | Blue     |
+| Seth Findlay     | Dulocian             | Blue     |
+| Evan Fuller      | Dulocian             | Blue     |
+| Molly Gonzalez   | Dulocian             | Blue     |
+| Parker Gonzalez  | Fairy Tale Character | Orange   |
+| Lucy Higbee      | Dulocian             | Blue     |
+| Ava Howe         | Fairy Tale Character | Orange   |
+| Kai Johnson      | Fairy Tale Character | Orange   |
+| Kaydence Kuper   | Fairy Tale Character | Orange   |
+| Kollins Kuper    | Dulocian             | Blue     |
+| Simon Lynn       | Dulocian             | Blue     |
+| Mina Marriott    | Fairy Tale Character | Orange   |
+| Rigby Monson     | Dulocian             | Blue     |
+| Henrie Olsen     | Dulocian             | Blue     |
+| Grace Peterson   | Fairy Tale Character | Orange   |
+| Kate Rose        | Dulocian             | Blue     |
+| Max Rose         | Fairy Tale Character | Orange   |
+| Beck Terry       | Dulocian             | Blue     |
+| Drew Terry       | Dulocian             | Blue     |
+| Tess Terry       | Dulocian             | Blue     |
+| Virginia Tooley  | Dulocian             | Blue     |
+| Alilea Walker    | Dulocian             | Blue     |
+| Caleb Wright     | Dulocian             | Blue     |
+| Lindsay Yoho     | Dulocian             | Blue     |
+| Rebecca Yoho     | Dulocian             | Blue     |
+
+
+
+### Swamp cast
+
+#### Leads
+
+|Name|Part|Ensemble|
+|-----|-----|----|
+| Campbell Anderson | Princess Fiona |
+| Brooke Anderton   | Teen Fiona     |
+| Emma Dellencach   | Donkey         |
+| Marcus Holzer     | Lord Farquaad  |
+| Harper Liddell    | Young Fiona    |
+| Eden Liljenquist  | Dragon         |
+| Nels Mickelson    | Shrek          |
+| Lindsey Bleazard  | Peter Pan/Pied Piper    | Green    |
+| Yale Brown        | Story Teller 3          | Green    |
+| Heidi Ence        | Little Ogre/Little Bear | Green    |
+| Amelia Geilman    | Pig 1                   | Green    |
+| Emma Groll        | Knight/Guard 3          | Red      |
+| Kelsey Hansen     | Ugly Duckling           | Green    |
+| Everett Hatch     | Big Bad Wolf/Dwarf      | Green    |
+| Joseph Hess       | Knight/Guard 1          | Red      |
+| Audrey Jensen     | Story Teller 1          | Green    |
+| Ella Jensen       | Gingy                   | Green    |
+| Layla Jewkes      | Story Teller 2          | Green    |
+| Jane Liljenquist  | Mama Ogre/Mama Bear     | Green    |
+| Sabrina Lunceford | Wicked Witch            | Green    |
+| India Robinson    | Pinocchio               | Green    |
+| Rebekah Stats     | Pig 2                   | Green    |
+| Leah Taylor       | Knight/Guard 2          | Red      |
+| Jeffery Thiriot   | Papa Ogre/Papa Bear     | Green    |
+| Matthew Young     | Captain Guard/Bishop    | Red      |
+| Sadie Young       | Pig 3                   | Green    |
+
+#### Ensemble
+
+|Name|Part|Ensemble|
+|-----|-----|-----|
+| Blake Anderson   | Dulocian             | Blue     |
+| Caroline Bahr    | Dulocian             | Blue     |
+| Tommy Bahr       | Dulocian             | Blue     |
+| Mikelle Bailey   | Dulocian             | Blue     |
+| Grayson Birchard | Fairy Tale Character | Orange   |
+| Reese Blake      | Dulocian             | Blue     |
+| Max Boardman     | Dulocian             | Blue     |
+| Hadlee Bronson   | Dulocian             | Blue     |
+| Charlotte Cone   | Dulocian             | Blue     |
+| Sydney Dunstan   | Dulocian             | Blue     |
+| Adelaide England | Dulocian             | Blue     |
+| Beck Green       | Fairy Tale Character | Orange   |
+| Penny Hanks      | Dulocian             | Blue     |
+| Shelby Hatch     | Dulocian             | Blue     |
+| Matthew Hess     | Dulocian             | Blue     |
+| Wiliam James     | Dulocian             | Blue     |
+| Liesel Mickelson | Dulocian             | Blue     |
+| Tessa Partridge  | Fairy Tale Character | Orange   |
+| Hazel Pilkington | Dulocian             | Blue     |
+| Portia Robinson  | Dulocian             | Blue     |
+| Audri Terry      | Fairy Tale Character | Orange   |
+| Morgan Wall      | Dulocian             | Blue     |
+| Larry Wall       | Dulocian             | Blue     |
+| Charlie Yates    | Fairy Tale Character | Orange   |
+| Hank Yates       | Dulocian             | Blue     |
+| Spencer Young    | Dulocian             | Blue     |
 
 [Shrek the Musical Jr. youtube video](https://youtu.be/A1Sxz4McvAQ)<br/>
 [Shrek the Musical Jr. soundtrack](https://youtu.be/7sqopU4V60w)
@@ -28,112 +170,6 @@ The show will be double cast. We will have Cast Duloc and Cast Swamp. This year 
 
 ## Cast Form
 [Cast Form](/files/Shrek/Shrek Jr. Cast Form.pdf)
-
-## Important dates
-* Dec. 3, 2021 5th-6th grade lead audtions. Girls 1:30-3:00pm. Boys 2:45-4:30pm.
-* Dec. 10, 2021 Lead Role's will be posted by front office. Leads pick up their scripts in the front office.
-* Jan. 5, 2022 7:30am kick off morning with Leads at Oak Hills gym
-* Jan. 6, 2022 enseble rehearsals begin
-* March 18, 2022 1:30-4:30pm Dress rehearsal
-* March 19, 2022 9:00am-12:00pm Dress rehearsal
-* March 21-25 2022 Performance Week!
-
-## Lead Roles
-* Shrek
-* Fiona
-  * Young Fiona
-  * Teen Fiona
-* Donkey
-* Dragon
-* Lord Farquaad
-* Fairy Tale Characters
-  * Story Teller 1-3
-  * Mama Ogre/Mama Bear
-  * Papa Ogre/Papa Bear
-  * Little Ogre/Baby Bear
-  * Pinocchio
-  * Big Bad Wolf/Dwarf
-  * Pig 1-3/Knight 1-3
-  * Wicked Witch/Knight 4
-  * Peter Pan/Pied Piper
-  * Ugly Duckling
-  * Gingy
-  * Captain of the Gaurd/Bishop
-
-
-## Audition music
-### Shrek
-[Shrek PDF](/files/Shrek/auditions/Shrek.pdf)<br/>
-<div class="audio-player" data-show="Shrek" data-file="01 Big Bright Beautiful World.mp3" data-audition-start-at="189"></div>
-
-### Shrek and Fiona
-See Fiona or Shrek PDF for sheet music
-<div class="audio-player" data-show="Shrek" data-file="22 I Think I Got You Beat.mp3" data-audition-start-at="120"></div>
-
-### Young Fiona
-[Young Fiona PDF](/files/Shrek/auditions/Young Fiona.pdf)<br/>
-<div class="audio-player" data-show="Shrek" data-file="12 I Know It's Today.mp3" data-audition-start-at="0"></div>
-
-### Teen Fiona
-[Teen Fiona PDF](/files/Shrek/auditions/Teen Fiona.pdf)<br/>
-<div class="audio-player" data-show="Shrek" data-file="12 I Know It's Today.mp3" data-audition-start-at="40"></div>
-
-### Fiona
-[Fiona PDF](/files/Shrek/auditions/Fiona.pdf)<br/>
-<div class="audio-player" data-show="Shrek" data-file="12 I Know It's Today.mp3" data-audition-start-at="83"></div>
-
-### Donkey
-[Donkey PDF](/files/Shrek/auditions/Donkey.pdf)<br/>
-<div class="audio-player" data-show="Shrek" data-file="14 Travel Song.mp3" data-audition-start-at="0"></div>
-
-### Dragon
-[Dragon PDF](/files/Shrek/auditions/Dragon.pdf)<br/>
-<div class="audio-player" data-show="Shrek" data-file="17 Forever.mp3" data-audition-start-at="114"></div>
-
-### Farquaad
-[Farquaad PDF](/files/Shrek/auditions/Farquaad.pdf)<br/>
-<div class="audio-player" data-show="Shrek" data-file="08 What's Up, Duloc_ (Part 2).mp3" data-audition-start-at="55"></div>
-
-### Fairy Tale Characters
-[Fairy Tale Creatures PDF](/files/Shrek/auditions/Fairy Tale Creatures.pdf)<br/>
-<div class="audio-player" data-show="Shrek" data-file="03 Story Of My Life.mp3" data-audition-start-at="36"></div>
-
-
-
-
-
-
-<!--
-## Cast Lists
-
-
-
-### Duloc cast
-
-#### Leads
-
-Name|Part|Ensemble
------|-----
-
-
-#### Ensemble
-
-Name|Part|Ensemble
------|-----|-----
-
-
-### Swamp cast
-
-#### Leads
-
-Name|Part|Ensemble
------|-----
-
-#### Ensemble
-
-Name|Part|Ensemble
------|-----|-----
--->
 
 <script>
 var els = document.querySelectorAll('div.audio-player');
