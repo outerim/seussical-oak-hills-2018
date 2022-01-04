@@ -23,7 +23,7 @@ The cast lists have been posted. You can find your childs name, part, and ensemb
 
 ## Important dates
 * Wed. Jan. 5, 2022 7:30am Leads kick off morning. All leads called
-* Thurs. Jan. 6, 2022 7:30am Ensemble rehearsl begin 7
+* Thurs. Jan. 6, 2022 7:30am Ensemble rehearsl begins. 
 * March 18, 2022 9:00am-12:00pm Dress rehearsal, 1:30-4:30pm Dress rehearsal
 * March 21-25 2022 Performance Week!
 
