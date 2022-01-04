@@ -17,13 +17,13 @@ title: Oak Hills Musical 2021-2022
 ## Welcome!
 Parents and Students- Wahoo!! It is time to kick off practices for Shrek Jr.! We are so excited to get started this coming week! The calendar will be updated every week so you will know right where to go in the building for rehearsals. The calendar can be found at the top of the website in the green/blue bar. When you click on the day of an event it will show who is called for the day and where that enseble will be rehearsing that day. Reminder that the rehearsals will either be in the gym, library, or computer portable. If you are in the portable please always come in through the school and go out the dock doors to get to the portable. Please DO NOT drive down the parking lot to the dock doors. There is limited space for turning around, will cause traffic jams, and create problems for the teaching staff to park. Always drop off out front at the main doors.
 
-The first 2 weeks everyone will be called Tuesday, Wednesday, and Thursday. We will be learning all the music, and bows. Starting Jan. 25th the students will be working with their individual ensemble directors.
+Jan. 5th 2022 7:30am we have the leads kick off pracite. Jan. 6th 2022 eveyone is called and then  everyone will be called Tuesday, Wednesday, and Thursday Jan. 11th-13th. We will be learning all the music, and bows. Everyone will be called again Jan. 19th and 20th. We do not have school Jan. 18th so there is no practice. Starting Jan. 25th the students will be working with their individual ensemble directors.
 
 The cast lists have been posted. You can find your childs name, part, and ensemble color under either the Duloc or Swamp cast list. It is important for your child to know what ensemble color they are in. The youtube links for the show and the soundtracks are still on the website they have just been moved down to the bottom. Please still use the links especially as we are starting to learn the music this week. Parent handout and cast forms can also be found down below.  
 
 ## Important dates
 * Wed. Jan. 5, 2022 7:30am Leads kick off morning. All leads called
-* Thurs. Jan. 6, 2022 7:30am Ensemble rehearsl begins. 
+* Thurs. Jan. 6, 2022 7:30am Ensemble rehearsl begins.
 * March 18, 2022 9:00am-12:00pm Dress rehearsal, 1:30-4:30pm Dress rehearsal
 * March 21-25 2022 Performance Week!
 
