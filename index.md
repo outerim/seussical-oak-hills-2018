@@ -16,7 +16,7 @@ title: Oak Hills Musical 2021-2022
 -----------
 
 ## Welcome!
-Parents and Students- Wow what a couple of weeks we have had! The students have been working so hard on learning their parts to the big ensemble numbers. They are sounding so great! To help solidify all thier work we strongly encourage you to download the music to the show from the link that was emailed out last week. Below you can find the lyrics to the songs that the students have been working on. We thought that would help your students as they practice the songs. Remind them to practice the harmoies they have learned at rehearsal. The calendar has been updated. Please note that it is subject to change. Please be sure to check it frequently to see when and where your student is needed for rehearsal.
+Parents and Students- Wow what a couple of weeks we have had! The students have been working so hard on learning their parts to the big ensemble numbers. They are sounding so great! To help solidify all their work we strongly encourage you to download the music to the show from the link that was emailed out last week. Below you can find the lyrics to the songs that the students have been working on. We thought that would help your students as they practice the songs. Remind them to practice the harmoies they have learned at rehearsal. The calendar has been updated. Please note that it is subject to change. Please be sure to check it frequently to see when and where your student is needed for rehearsal.
 
 ## Important dates
 * March 18, 2022 9:00am-12:00pm Swamp cast Dress rehearsal, 1:30-4:30pm Duloc Dress rehearsal
