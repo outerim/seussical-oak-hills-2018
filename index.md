@@ -5,9 +5,10 @@ title: Oak Hills Musical 2021-2022
 <div class="updates" markdown="1">
 
 # Updates
-## Saturday Jan. 1, 2022
+## Monday Jan. 17, 2022
 * Welcome
-* Important dates updated
+* Performace dates
+* Song lyrics
 * Cast lists
 * Updated Calendar
 </div>
@@ -15,17 +16,13 @@ title: Oak Hills Musical 2021-2022
 -----------
 
 ## Welcome!
-Parents and Students- Wahoo!! It is time to kick off practices for Shrek Jr.! We are so excited to get started this coming week! The calendar will be updated every week so you will know right where to go in the building for rehearsals. The calendar can be found at the top of the website in the green/blue bar. When you click on the day of an event it will show who is called for the day and where that enseble will be rehearsing that day. Reminder that the rehearsals will either be in the gym, library, or computer portable. If you are in the portable please always come in through the school and go out the dock doors to get to the portable. Please DO NOT drive down the parking lot to the dock doors. There is limited space for turning around, will cause traffic jams, and create problems for the teaching staff to park. Always drop off out front at the main doors.
-
-Jan. 5th 2022 7:30am we have the leads kick off pracite. Jan. 6th 2022 eveyone is called and then  everyone will be called Tuesday, Wednesday, and Thursday Jan. 11th-13th. Everyone will be called again Jan. 19th and 20th. We will be learning all the music, and bows. There is no school Jan. 18th so there is no practice. Starting Jan. 25th the students will be working with their individual ensemble directors.
-
-The cast lists have been posted. You can find your childs name, part, and ensemble color under either the Duloc or Swamp cast list. It is important for your child to know what ensemble color they are in. The youtube links for the show and the soundtracks are still on the website they have just been moved down to the bottom. Please still use the links especially as we are starting to learn the music this week. Parent handout and cast forms can also be found down below.  
+Parents and Students- Wow what a couple of weeks we have had! The students have been working so hard on learning their parts to the big ensemble numbers. They are sounding so great! To help solidify all thier work we strongly encourage you to download the music to the show from the link that was emailed out last week. Below you can find the lyrics to the songs that the students have been working on. We thought that would help your students as they practice the songs. Remind them to practice the harmoies they have learned at rehearsal. The calendar has been updated. Please note that it is subject to change. Please be sure to check it frequently to see when and where your student is needed for rehearsal.
 
 ## Important dates
-* Wed. Jan. 5, 2022 7:30am Leads kick off morning. All leads called
-* Thurs. Jan. 6, 2022 7:30am Ensemble rehearsl begins.
-* March 18, 2022 9:00am-12:00pm Dress rehearsal, 1:30-4:30pm Dress rehearsal
+* March 18, 2022 9:00am-12:00pm Swamp cast Dress rehearsal, 1:30-4:30pm Duloc Dress rehearsal
 * March 21-25 2022 Performance Week!
+* Duloc cast performances March 21st, 23rd, matinee 24th
+* Swamp cast performances March 22nd, 24th, evening 24th
 
 ## Cast Lists
 ### Duloc cast
@@ -105,7 +102,7 @@ The cast lists have been posted. You can find your childs name, part, and ensemb
 |Name|Part|Ensemble|
 |-----|-----|----|
 | Campbell Anderson | Princess Fiona |
-| Brooke Anderton   | Teen Fiona     |
+| Brooklyn Anderton | Teen Fiona     |
 | Emma Dellencach   | Donkey         |
 | Marcus Holzer     | Lord Farquaad  |
 | Harper Liddell    | Young Fiona    |
@@ -154,6 +151,7 @@ The cast lists have been posted. You can find your childs name, part, and ensemb
 | Liesel Mickelson | Dulocian             | Blue     |
 | Tessa Partridge  | Fairy Tale Character | Orange   |
 | Hazel Pilkington | Dulocian             | Blue     |
+| Pippa Rafferty   | Dulocian             | Blue     |
 | Portia Robinson  | Dulocian             | Blue     |
 | Audri Terry      | Fairy Tale Character | Orange   |
 | Morgan Wall      | Dulocian             | Blue     |
@@ -161,6 +159,118 @@ The cast lists have been posted. You can find your childs name, part, and ensemb
 | Charlie Yates    | Fairy Tale Character | Orange   |
 | Hank Yates       | Dulocian             | Blue     |
 | Spencer Young    | Dulocian             | Blue     |
+
+## Music Lyrics
+
+#### STORY OF MY LIFE
+
+All- Story of my life. Booted from the ball. The party's off the hook,
+That's the story of my life. That's the story of my life. I always dreamed I'd get a happy ending. I always dreamed I'd get an ever after. If this is it, it blows. It blows. It blows. Story of my life. Always double crossed. Always in the woods. Always getting lost. Always on the ropes. Always up a creek. Always kicked around, and treated like a freak! That's the story of my life, Yes sir.That's the story of my life, Oy-vey! That's the story of my life.
+
+#### WHAT'S UP DULOC? Part 1
+
+All- Welcome to Duloc, Such a perfect town. Here we have some rules, Let us lay them down. Don't make waves, stay in line, and we'll get alog fine. Duloc is a perfect place. Please keep of the grass. Shine your shoes, wipe your...face. Duloc is, Duloc is, Duloc is a perfect place.
+
+WHAT'S UP DULOC? Part 2
+
+Group 1 (a-k)- Things are looking up here in Duloc.
+
+Group 2 (l-z)- Just take a look
+
+Group 1- The things he's cooking up here in Duloc.
+
+Group 2-  He likes to cook.
+
+All- A model that amazes. A plan with seven phases. Bum Bum Bum Bum. They're looking up.
+
+Boys- The ladies all look swell.
+
+Girls- The men are so dashing.
+
+All- Thanks to the new dress code, The fashions never clashing. He nonny nonny nonny no. The castly he had built is taller than the clifftops. A city like a postcard with a monorail and gift shops!
+
+Group 1 (a-k)- and so
+
+Group 2 (l-z)- and so
+
+Group 1- and so
+
+Group 2- and so
+
+All- and so. He taking aim! We're all the same! Conform us!
+
+Group 1- Things, are, looking, up
+
+Group 2- Things are looking up. Things are looking up. Things are looking up
+
+Group 1- here in Duloc
+
+Group 2- Ah!
+
+Group 1- here in Duloc
+
+Group 2- Ah!
+
+All- Up, up, up, up, up!
+
+#### WHAT'S UP, DULOC? Reprise
+All- Things are looking up! Things are looking up! Here in Duloc. Ah ah ah ah ah!
+
+#### FREAK FLAG
+All- Let your freak flag wave. Let your freak flag fly! Never take it down, never take it down. Raise it way up high! Let your freak flag fly! Let it fly...fly...fly. Ooh. No, no! Let your freak flag wave. Let your freak flag fly! Never take it down, never take it down. Raise it way up hight! Let your freak flag fly! What makes us special makes us strong. Let your freak flag wave. Let your freak flag fly! Never take it down, never take it down. Raise it way up high! Let your freak flag fly...Fly...Fly Fly Fly Fly!
+
+#### FINALE
+All- we have bold brand-new stories to be told. we will write them. We will tell them. You will hear them, you will smell them. This is our story. waht makes up special makes us strong! We are puppets, we are rabbits, we are hobbits, with bad habbits. We're a screwy but delighted crazy stew. We are different, and united. You are us and we are you. This is our story. This is our story. This is our story. The end!
+
+#### I'M A BELIEVER
+Group 1 (dulocians)- I thought love was only true in fairy tales. Meant for someone else, but not for me.
+
+Group 2 (fairytale)- Love was out to get me. That's the way it seems. Disappoinment haunted all my dreams.
+
+Group 1- And then I saw her face
+
+Group 2- I saw her face
+
+Group 1- Now I'm a believer
+
+Group 2- I saw her face
+
+Group 1- Not a trace
+
+Group 2- No, not a trace
+
+Group 1- Of doubt in my Reminder
+
+Group 2- In my Reminder
+
+Group 1- I'm in love. I'm a believer I couldn't leave her if I tried
+
+Group 2- Ooh, I can't leave
+
+All- hoop hoop. Oh yeah. Doo doo doo doo. Doo doo doo doo doo. I got rain, I got rain!
+
+Group 1 (fairytale)- Then I saw her face
+
+Group 2 (dulocians)- I saw his face
+
+Group 1- Now I'm a believer
+
+Group 2- I'm a believer
+
+Group 1- Not a trace
+
+Group 2- No, not a trace
+
+Group 1- Of doubt in my mind.
+
+Group 2- In my Reminder
+
+All- I believe! I believe!
+
+Group 1- I believe, I believe, I believe, I believe, I believe, I believe, I believe, I believe, I believe, I believe, I believe, I believe, I believe, I believe,
+
+Group 2- I...believe...I believe...I believe!
+
 
 [Shrek the Musical Jr. youtube video](https://youtu.be/A1Sxz4McvAQ)<br/>
 [Shrek the Musical Jr. soundtrack](https://youtu.be/7sqopU4V60w)
