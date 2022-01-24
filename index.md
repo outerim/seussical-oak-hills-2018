@@ -5,9 +5,9 @@ title: Oak Hills Musical 2021-2022
 <div class="updates" markdown="1">
 
 # Updates
-## Monday Jan. 17, 2022
+## Sunday Jan. 23, 2022
 * Welcome
-* Performace dates
+* Performance dates
 * Song lyrics
 * Cast lists
 * Updated Calendar
@@ -16,7 +16,10 @@ title: Oak Hills Musical 2021-2022
 -----------
 
 ## Welcome!
-Parents and Students- Wow what a couple of weeks we have had! The students have been working so hard on learning their parts to the big ensemble numbers. They are sounding so great! To help solidify all their work we strongly encourage you to download the music to the show from the link that was emailed out last week. Below you can find the lyrics to the songs that the students have been working on. We thought that would help your students as they practice the songs. Remind them to practice the harmoies they have learned at rehearsal. The calendar has been updated. Please note that it is subject to change. Please be sure to check it frequently to see when and where your student is needed for rehearsal.
+Parents and Students- first off we need to give these kids a huge shout out! 2 tough weeks of learning the music to the show and they have done a great job! We even got to start on the blocking and choreography for the finale last week. This week are diving into the ensemble work. Please be sure to check the calendar above to see when and where your student will need to be throughout the week. If you see their character name or the ensemble name that means they are needed. If you don't see their name or ensemble that means they are not needed.  
+
+We appreciate those who have stayed home because they have been sick. We have missed you and will be grateful when you are back. Please remember to not come to rehearsal if you are feeling sick. 
+
 
 ## Important dates
 * March 18, 2022 9:00am-12:00pm Swamp cast Dress rehearsal, 1:30-4:30pm Duloc Dress rehearsal
@@ -71,7 +74,6 @@ Parents and Students- Wow what a couple of weeks we have had! The students have 
 | Seth Findlay     | Dulocian             | Blue     |
 | Evan Fuller      | Dulocian             | Blue     |
 | Molly Gonzalez   | Dulocian             | Blue     |
-| Parker Gonzalez  | Fairy Tale Character | Orange   |
 | Lucy Higbee      | Dulocian             | Blue     |
 | Ava Howe         | Fairy Tale Character | Orange   |
 | Kai Johnson      | Fairy Tale Character | Orange   |
@@ -84,6 +86,7 @@ Parents and Students- Wow what a couple of weeks we have had! The students have 
 | Grace Peterson   | Fairy Tale Character | Orange   |
 | Kate Rose        | Dulocian             | Blue     |
 | Max Rose         | Fairy Tale Character | Orange   |
+|Bailey Stewart    | Dulocian             | Blue     |
 | Beck Terry       | Dulocian             | Blue     |
 | Drew Terry       | Dulocian             | Blue     |
 | Tess Terry       | Dulocian             | Blue     |
