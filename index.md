@@ -5,21 +5,21 @@ title: Oak Hills Musical 2021-2022
 <div class="updates" markdown="1">
 
 # Updates
-## Sunday Jan. 23, 2022
+## Monday Jan. 31, 2022
 * Welcome
-* Performance dates
-* Song lyrics
-* Cast lists
+* Leads sign in
+* Cast lists updated
 * Updated Calendar
 </div>
 
 -----------
 
 ## Welcome!
-Parents and Students- first off we need to give these kids a huge shout out! 2 tough weeks of learning the music to the show and they have done a great job! We even got to start on the blocking and choreography for the finale last week. This week are diving into the ensemble work. Please be sure to check the calendar above to see when and where your student will need to be throughout the week. If you see their character name or the ensemble name that means they are needed. If you don't see their name or ensemble that means they are not needed.  
+Parents and Students- the fun has really begun now that the students are working with their individual directors and learning the choreography for their on stage songs. Please encourage your students to practice at home. A music download link can be found in the emails. If you are unsure which songs to download all of the songs that have the lyrics provided down below are ones that all the students sing. The kids are working hard, having fun, and doing awesome! Thank you parents for getting the students to rehearsals and embracing how many times you are going to have to listen to Shrek music for the next 2 months!
 
-We appreciate those who have stayed home because they have been sick. We have missed you and will be grateful when you are back. Please remember to not come to rehearsal if you are feeling sick. 
+We appreciate those who have stayed home because they have been sick. We have missed you and will be grateful when you are back. Please remember to not come to rehearsal if you are feeling sick. If it is possible please email the directors at oakhillsmusical@gmail.com if your student will be missing from illness.
 
+LEADS- we are changing the way leads come in for rehearsal. Every morning when you come in the front door there will be a role call list on the wall for each cast. Please find your name, date, and then sign in with you initials. This will help us know who is missing rehearsal and what we might need to review. It will also help you become more accountable with making it to rehearsal. A reminder that if you are a lead and you miss more than 3 practices we may need to recast your role. If you are out because of quarintine or sickness please let a director know.
 
 ## Important dates
 * March 18, 2022 9:00am-12:00pm Swamp cast Dress rehearsal, 1:30-4:30pm Duloc Dress rehearsal
@@ -86,7 +86,7 @@ We appreciate those who have stayed home because they have been sick. We have mi
 | Grace Peterson   | Fairy Tale Character | Orange   |
 | Kate Rose        | Dulocian             | Blue     |
 | Max Rose         | Fairy Tale Character | Orange   |
-|Bailey Stewart    | Dulocian             | Blue     |
+| Bailey Stewart    | Dulocian             | Blue     |
 | Beck Terry       | Dulocian             | Blue     |
 | Drew Terry       | Dulocian             | Blue     |
 | Tess Terry       | Dulocian             | Blue     |
@@ -152,6 +152,7 @@ We appreciate those who have stayed home because they have been sick. We have mi
 | Matthew Hess     | Dulocian             | Blue     |
 | Wiliam James     | Dulocian             | Blue     |
 | Liesel Mickelson | Dulocian             | Blue     |
+| James Olsen      | Dulocian             | Blue     |
 | Tessa Partridge  | Fairy Tale Character | Orange   |
 | Hazel Pilkington | Dulocian             | Blue     |
 | Pippa Rafferty   | Dulocian             | Blue     |
