@@ -19,7 +19,7 @@ Parents and Students- the fun has really begun now that the students are working
 
 We appreciate those who have stayed home because they have been sick. We have missed you and will be grateful when you are back. Please remember to not come to rehearsal if you are feeling sick. If it is possible please email the directors at oakhillsmusical@gmail.com if your student will be missing from illness.
 
-LEADS- we are changing the way leads come in for rehearsal. Every morning when you come in the front door there will be a role call list on the wall for each cast. Please find your name, date, and then sign in with you initials. This will help us know who is missing rehearsal and what we might need to review. It will also help you become more accountable with making it to rehearsal. A reminder that if you are a lead and you miss more than 3 practices we may need to recast your role. If you are out because of quarintine or sickness please let a director know.
+LEADS- we are changing the way leads come in for rehearsal. Every morning when you come in the front door there will be a role call list on the wall for each cast. Please find your name, date, and then sign in with your initials. This will help us know who is missing rehearsal and what we might need to review. It will also help you become more accountable with making it to rehearsal. A reminder that if you are a lead and you miss more than 3 practices we may need to recast your role. If you are out because of quarintine or sickness please let a director know.
 
 ## Important dates
 * March 18, 2022 9:00am-12:00pm Swamp cast Dress rehearsal, 1:30-4:30pm Duloc Dress rehearsal
