@@ -82,11 +82,12 @@ LEADS- we are changing the way leads come in for rehearsal. Every morning when y
 | Simon Lynn       | Dulocian             | Blue     |
 | Mina Marriott    | Fairy Tale Character | Orange   |
 | Rigby Monson     | Dulocian             | Blue     |
+| Phin Morrow      | Dulocian             | Blue     |
 | Henrie Olsen     | Dulocian             | Blue     |
 | Grace Peterson   | Fairy Tale Character | Orange   |
 | Kate Rose        | Dulocian             | Blue     |
 | Max Rose         | Fairy Tale Character | Orange   |
-| Bailey Stewart    | Dulocian             | Blue     |
+| Bailey Stewart   | Dulocian             | Blue     |
 | Beck Terry       | Dulocian             | Blue     |
 | Drew Terry       | Dulocian             | Blue     |
 | Tess Terry       | Dulocian             | Blue     |
