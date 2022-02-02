@@ -24,8 +24,8 @@ LEADS- we are changing the way leads come in for rehearsal. Every morning when y
 ## Important dates
 * March 18, 2022 9:00am-12:00pm Swamp cast Dress rehearsal, 1:30-4:30pm Duloc Dress rehearsal
 * March 21-25 2022 Performance Week!
-* Duloc cast performances March 21st, 23rd, matinee 24th
-* Swamp cast performances March 22nd, 24th, evening 24th
+* Duloc cast performances March 21st, 23rd, matinee 25th
+* Swamp cast performances March 22nd, 24th, evening 25th
 
 ## Cast Lists
 ### Duloc cast
