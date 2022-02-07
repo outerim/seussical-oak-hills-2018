@@ -8,6 +8,7 @@ title: Oak Hills Musical 2021-2022
 ## Monday Feb. 7, 2022
 * Welcome
 * Costumes
+* Programs
 * Updated Calendar
 </div>
 
@@ -22,6 +23,9 @@ LEADS- must be memorized/off book by Feb. 14, 2022
 
 ## Costumes
 It is time to start thinking about costumes. Everyone will need a black base layer. Black shorts and Short sleeve shirt. All shirts must have a sleeve. No tank tops please. Arm pits must be covered. The tighter the shorts the better they fit under their costume. Think leggings or biking shorts. Most eveyone will be sharing thier costumes with their counter part in the other cast. That is why everyone must wear a base layer. Specifics for costumes will be coming in the next couple of weeks. For now everyone should plan on having a base layer. Dulocians- those who are dulocians (3rd-4th graders) plan on a short sleave black shirt but depedening on the availibilty of the pants to rent you may need roayl blue leggings. Please hold of on the bottom half of your base/costume until we can get the rentals squared away. That will be happening this week. More info to come next week.
+
+## Programs
+If you or someone you know has a business that they would like to buy ad space in our program please email us at oakhillsmusical@gmail.com by Feb. 18th. It is $25.00 for 1/4 page. $50.00 for 1/2 page or $100 for full page. 
 
 ## Important dates
 * March 18, 2022 9:00am-12:00pm Swamp cast Dress rehearsal, 1:30-4:30pm Duloc Dress rehearsal
