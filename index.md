@@ -5,21 +5,23 @@ title: Oak Hills Musical 2021-2022
 <div class="updates" markdown="1">
 
 # Updates
-## Monday Jan. 31, 2022
+## Monday Feb. 7, 2022
 * Welcome
-* Leads sign in
-* Cast lists updated
+* Costumes
 * Updated Calendar
 </div>
 
 -----------
 
 ## Welcome!
-Parents and Students- the fun has really begun now that the students are working with their individual directors and learning the choreography for their on stage songs. Please encourage your students to practice at home. A music download link can be found in the emails. If you are unsure which songs to download all of the songs that have the lyrics provided down below are ones that all the students sing. The kids are working hard, having fun, and doing awesome! Thank you parents for getting the students to rehearsals and embracing how many times you are going to have to listen to Shrek music for the next 2 months!
+Parents and Students- not a lot has changed in the last week other than the kids are getting so good at their parts! It is really fun to watch this show start coming to life. We have a couple more weeks of being in small ensembles. Then we come together as a cast and start running the show. Please encourage your students to practice at home!
 
 We appreciate those who have stayed home because they have been sick. We have missed you and will be grateful when you are back. Please remember to not come to rehearsal if you are feeling sick. If it is possible please email the directors at oakhillsmusical@gmail.com if your student will be missing from illness.
 
-LEADS- we are changing the way leads come in for rehearsal. Every morning when you come in the front door there will be a role call list on the wall for each cast. Please find your name, date, and then sign in with your initials. This will help us know who is missing rehearsal and what we might need to review. It will also help you become more accountable with making it to rehearsal. A reminder that if you are a lead and you miss more than 3 practices we may need to recast your role. If you are out because of quarintine or sickness please let a director know.
+LEADS- must be memorized/off book by Feb. 14, 2022
+
+## Costumes
+It is time to start thinking about costumes. Everyone will need a black base layer. Black shorts and Short sleeve shirt. All shirts must have a sleeve. No tank tops please. Arm pits must be covered. The tighter the shorts the better they fit under their costume. Think leggings or biking shorts. Most eveyone will be sharing thier costumes with their counter part in the other cast. That is why everyone must wear a base layer. Specifics for costumes will be coming in the next couple of weeks. For now everyone should plan on having a base layer. Dulocians- those who are dulocians (3rd-4th graders) plan on a short sleave black shirt but depedening on the availibilty of the pants to rent you may need roayl blue leggings. Please hold of on the bottom half of your base/costume until we can get the rentals squared away. That will be happening this week. More info to come next week.
 
 ## Important dates
 * March 18, 2022 9:00am-12:00pm Swamp cast Dress rehearsal, 1:30-4:30pm Duloc Dress rehearsal
