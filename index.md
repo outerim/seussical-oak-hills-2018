@@ -5,27 +5,44 @@ title: Oak Hills Musical 2021-2022
 <div class="updates" markdown="1">
 
 # Updates
-## Monday Feb. 7, 2022
+## Monday Feb. 14, 2022
 * Welcome
 * Costumes
-* Programs
 * Updated Calendar
 </div>
 
 -----------
 
 ## Welcome!
-Parents and Students- not a lot has changed in the last week other than the kids are getting so good at their parts! It is really fun to watch this show start coming to life. We have a couple more weeks of being in small ensembles. Then we come together as a cast and start running the show. Please encourage your students to practice at home!
+Parents and Students- This is where the fun really begins. We will start meeting a couple more times a week so please be sure to check the calendar and note when your student(s) need to be at the school. The calendar will start looking a little busier so just be sure to check the headings of each time on the calendar to see if your student(s) are called.
+Information on costumes can be found below. Please remeber that we have costume fittings for everyone but the Blue Ensemble on Friday.
+
+Parents- now is a good time to check the cast lists below to verify your childs name and how it is spelled, and to double check they are on the list :) This is how thier names will appear in the program.
 
 We appreciate those who have stayed home because they have been sick. We have missed you and will be grateful when you are back. Please remember to not come to rehearsal if you are feeling sick. If it is possible please email the directors at oakhillsmusical@gmail.com if your student will be missing from illness.
 
-LEADS- must be memorized/off book by Feb. 14, 2022
+## LEADS-
+You should be off script at this point. If you are not memorized GET MEMORIZED! We love you! Now get to to work!!
 
-## Costumes
-It is time to start thinking about costumes. Everyone will need a black base layer. Black shorts and Short sleeve shirt. All shirts must have a sleeve. No tank tops please. Arm pits must be covered. The tighter the shorts the better they fit under their costume. Think leggings or biking shorts. Most eveyone will be sharing thier costumes with their counter part in the other cast. That is why everyone must wear a base layer. Specifics for costumes will be coming in the next couple of weeks. For now everyone should plan on having a base layer. Dulocians- those who are dulocians (3rd-4th graders) plan on a short sleave black shirt but depedening on the availibilty of the pants to rent you may need roayl blue leggings. Please hold of on the bottom half of your base/costume until we can get the rentals squared away. That will be happening this week. More info to come next week.
+## Costumes/base layer
+EVERYONE- black shoes if possible. We are just looking for shoes that will blend in and not stick out. Black, brown, gray. Just not anything flashy please.
 
-## Programs
-If you or someone you know has a business that they would like to buy ad space in our program please email us at oakhillsmusical@gmail.com by Feb. 18th. It is $25.00 for 1/4 page. $50.00 for 1/2 page or $100 for full page. 
+* Blue Ensemble- black short sleeve shirt, blue leggings
+* Green, Red, Orange Ensemble- black short sleeve shirt, black leggings or black shorts. Think biker shorts.
+* Leads not in an enseble- black short sleeve shirt, black leggings or black shorts. unless otherwise instructed by the costumer.
+
+## Costume fitting schedule
+* 1:45- Young, Teen, Princess Fiona
+* 2:00- Pig 1-3
+* 2:15- Mama/Papa/Baby Bear/Ogre
+* 2:30- Peter Pan/Gingy/Pinocchio
+* 2:40- Big Bad Wolf/Dwarf
+* 2:50- Captain of the guards/knights
+* 3:00- Ugly Duckling/Wicked Witch
+* 3:10- Fairy Tale Characters
+* 3:25- Shrek
+* 3:30- Lord Farquaad
+* 3:35- Story Tellers
 
 ## Important dates
 * March 18, 2022 9:00am-12:00pm Swamp cast Dress rehearsal, 1:30-4:30pm Duloc Dress rehearsal
