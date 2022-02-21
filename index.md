@@ -5,7 +5,7 @@ title: Oak Hills Musical 2021-2022
 <div class="updates" markdown="1">
 
 # Updates
-## Monday Feb. 14, 2022
+## Monday Feb. 21, 2022
 * Welcome
 * Costumes
 * Updated Calendar
@@ -15,35 +15,20 @@ title: Oak Hills Musical 2021-2022
 -----------
 
 ## Welcome!
-Parents and Students- This is where the fun really begins. We will start meeting a couple more times a week so please be sure to check the calendar and note when your student(s) need to be at the school. The calendar will start looking a little busier so just be sure to check the headings of each time on the calendar to see if your student(s) are called.
-Information on costumes can be found below. Please remeber that we have costume fittings for everyone but the Blue Ensemble on Friday.
-
-Parents- now is a good time to check the cast lists below to verify your childs name and how it is spelled, and to double check they are on the list :) This is how thier names will appear in the program.
+Parents and Students- Thank you to those who made it to the costume fitting and or working out a time for you child to be fitted! It was a long afternoon but such a great afternoon! It is so much fun seeing everyone in costume and getting exctied about the show! Now is the time for the show to really start taking life. It is going to be so wonderful to watch. Be sure to check the calendar throughout the week to see if you student(s) are called for the day. We will be running some days with just one cast or the other. When we do the Act 1 and 2 run throughs both casts will be called but only one one will be on stage. The other cast will be sitting as the audience.
 
 We appreciate those who have stayed home because they have been sick. We have missed you and will be grateful when you are back. Please remember to not come to rehearsal if you are feeling sick. If it is possible please email the directors at oakhillsmusical@gmail.com if your student will be missing from illness.
 
 ## LEADS-
-You should be off script at this point. If you are not memorized GET MEMORIZED! We love you! Now get to to work!!
+GET MEMORIZED! We love you! Now get to to work!!
 
 ## Costumes/base layer
 EVERYONE- black shoes if possible. We are just looking for shoes that will blend in and not stick out. Black, brown, gray. Just not anything flashy please.
+* Storytellers/Pig 1-3- Black Mary Jane shoes are highly encouraged. If that is not possible we are asking for black flats (Sunday best type shoes).
 
 * Blue Ensemble- black short sleeve shirt, blue leggings
 * Green, Red, Orange Ensemble- black short sleeve shirt, black leggings or black shorts. Think biker shorts.
-* Leads not in an enseble- black short sleeve shirt, black leggings or black shorts. unless otherwise instructed by the costumer.
-
-## Costume fitting schedule
-* 1:45- Young, Teen, Princess Fiona
-* 2:00- Pig 1-3
-* 2:15- Mama/Papa/Baby Bear/Ogre
-* 2:30- Peter Pan/Gingy/Pinocchio
-* 2:40- Big Bad Wolf/Dwarf
-* 2:50- Captain of the guards/knights
-* 3:00- Ugly Duckling/Wicked Witch
-* 3:10- Fairy Tale Characters
-* 3:25- Shrek
-* 3:30- Lord Farquaad
-* 3:35- Story Tellers
+* Leads not in an Ensemble- black short sleeve shirt, black leggings or black shorts. unless otherwise instructed by the costumer.
 
 ## Important dates
 * March 18, 2022 9:00am-12:00pm Swamp cast Dress rehearsal, 1:30-4:30pm Duloc Dress rehearsal
@@ -101,16 +86,13 @@ EVERYONE- black shoes if possible. We are just looking for shoes that will blend
 | Lucy Higbee      | Dulocian             | Blue     |
 | Ava Howe         | Fairy Tale Character | Orange   |
 | Kai Johnson      | Fairy Tale Character | Orange   |
-| Kaydence Kuper   | Fairy Tale Character | Orange   |
 | Kollins Kuper    | Dulocian             | Blue     |
 | Simon Lynn       | Dulocian             | Blue     |
-| Mina Marriott    | Fairy Tale Character | Orange   |
 | Rigby Monson     | Dulocian             | Blue     |
 | Phin Morrow      | Dulocian             | Blue     |
 | Henrie Olsen     | Dulocian             | Blue     |
 | Grace Peterson   | Fairy Tale Character | Orange   |
 | Kate Rose        | Dulocian             | Blue     |
-| Max Rose         | Fairy Tale Character | Orange   |
 | Bailey Stewart   | Dulocian             | Blue     |
 | Beck Terry       | Dulocian             | Blue     |
 | Drew Terry       | Dulocian             | Blue     |
@@ -121,8 +103,6 @@ EVERYONE- black shoes if possible. We are just looking for shoes that will blend
 | Lindsay Yoho     | Dulocian             | Blue     |
 | Rebecca Yoho     | Dulocian             | Blue     |
 
-
-
 ### Swamp cast
 
 #### Leads
@@ -132,7 +112,7 @@ EVERYONE- black shoes if possible. We are just looking for shoes that will blend
 | Campbell Anderson | Princess Fiona |
 | Brooklyn Anderton | Teen Fiona     |
 | Emma Dellencach   | Donkey         |
-| Marcus Holzer     | Lord Farquaad  |
+| Markus Holzer     | Lord Farquaad  |
 | Harper Liddell    | Young Fiona    |
 | Eden Liljenquist  | Dragon         |
 | Nels Mickelson    | Shrek          |
