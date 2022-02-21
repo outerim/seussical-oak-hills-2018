@@ -28,6 +28,7 @@ EVERYONE- black shoes if possible. We are just looking for shoes that will blend
 
 * Blue Ensemble- black short sleeve shirt, blue leggings
 * Green, Red, Orange Ensemble- black short sleeve shirt, black leggings or black shorts. Think biker shorts.
+** Storytellers/Pig 1-3 white short sleeve shirt, black shorts, white tights
 * Leads not in an Ensemble- black short sleeve shirt, black leggings or black shorts. unless otherwise instructed by the costumer.
 
 ## Important dates
