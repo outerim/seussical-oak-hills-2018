@@ -5,8 +5,9 @@ title: Oak Hills Musical 2021-2022
 <div class="updates" markdown="1">
 
 # Updates
-## Monday Feb. 21, 2022
+## Sunday Feb. 27, 2022
 * Welcome
+* Tickets
 * Costumes
 * Updated Calendar
 
@@ -15,9 +16,12 @@ title: Oak Hills Musical 2021-2022
 -----------
 
 ## Welcome!
-Parents and Students- Thank you to those who made it to the costume fitting and or working out a time for you child to be fitted! It was a long afternoon but such a great afternoon! It is so much fun seeing everyone in costume and getting exctied about the show! Now is the time for the show to really start taking life. It is going to be so wonderful to watch. Be sure to check the calendar throughout the week to see if you student(s) are called for the day. We will be running some days with just one cast or the other. When we do the Act 1 and 2 run throughs both casts will be called but only one one will be on stage. The other cast will be sitting as the audience.
+Parents and Students- Here we go folks! We are nearing the home stretch! This week we have 2 days of rehearsals. Swamp cast will be coming Tuesday March 1st. Duloc cast will be coming Thursday March 3rd. Tickets will be available March 1st. More information below. Please be aware of what you child needs for thier base layer. That information is also down below.
 
 We appreciate those who have stayed home because they have been sick. We have missed you and will be grateful when you are back. Please remember to not come to rehearsal if you are feeling sick. If it is possible please email the directors at oakhillsmusical@gmail.com if your student will be missing from illness.
+
+## Tickets-
+Tickets will go "on sale" Tuesday March 1st! Tickets sales (They are free) are being done online this year. If for whatevere reason will not be able to use your tickets please email oakhillsmuscial@gmail.com as soon as possible so we can re-release those tickets to the public. Link and password will be posted March 1st!
 
 ## LEADS-
 GET MEMORIZED! We love you! Now get to to work!!
@@ -28,7 +32,8 @@ EVERYONE- black shoes if possible. We are just looking for shoes that will blend
 
 * Blue Ensemble- black short sleeve shirt, blue leggings
 * Green, Red, Orange Ensemble- black short sleeve shirt, black leggings or black shorts. Think biker shorts.
-** Storytellers/Pig 1-3 white short sleeve shirt, black shorts, white tights
+** Storytellers/Pig 1-3 white short sleeve shirt, black shorts, white tights.
+* Green ensemble members who know they are wearing a dress that goes to their knees plan on wearing black shorts and white tights. If your dress goes to the floor leggings are fine and either no socks or black socks with your shoes is ideal.
 * Leads not in an Ensemble- black short sleeve shirt, black leggings or black shorts. unless otherwise instructed by the costumer.
 
 ## Important dates
