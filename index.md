@@ -5,7 +5,7 @@ title: Oak Hills Musical 2021-2022
 <div class="updates" markdown="1">
 
 # Updates
-## Sunday Feb. 27, 2022
+## Monday March 7, 2022
 * Welcome
 * Tickets
 * Costumes
@@ -16,25 +16,82 @@ title: Oak Hills Musical 2021-2022
 -----------
 
 ## Welcome!
-Parents and Students- Here we go folks! We are nearing the home stretch! This week we have 2 days of rehearsals. Swamp cast will be coming Tuesday March 1st. Duloc cast will be coming Thursday March 3rd. Tickets will be available March 1st. More information below. Please be aware of what you child needs for thier base layer. That information is also down below.
-
-We appreciate those who have stayed home because they have been sick. We have missed you and will be grateful when you are back. Please remember to not come to rehearsal if you are feeling sick. If it is possible please email the directors at oakhillsmusical@gmail.com if your student will be missing from illness.
+Parents and Students- take a breath and hold on tight we are about to get crazy busy these last 2 weeks! We have the next two weeks full of run throughs and Dress rehearsal March 18th! Dress rehearsal is manditory! Swamp cast dress rehearsal 9:00am-12:00pm. Duloc dress rehearsal 1:30pm-4:30pm. Brag tag photos will be taken at the dress rehearsals. Please please pleae encourage your kids to practice the music at home. The more they practice the more fun they will have performing we promise! There are still a good amount of tickets left for a few of the shows. Please shar the link and password with your friends, family, and neighbors. We would love to have full houses for every performance! We don't charge for tickets and simply ask that you be generous at the concessions stand! DVD's and brag tags will also be available for purchase at each nights performance.
 
 ## Tickets-
-Tickets will go "on sale" Tuesday March 1st! Tickets sales (They are free) are being done online this year. If for whatevere reason will not be able to use your tickets please email oakhillsmuscial@gmail.com as soon as possible so we can re-release those tickets to the public. Link and password will be posted March 1st!
+[Ticket link](https://www.ticketsource.us/oakhills)
+Password: DONKEY
 
-## LEADS-
-GET MEMORIZED! We love you! Now get to to work!!
-
+<br/>If for whatevere reason will not be able to use your tickets please email oakhillsmuscial@gmail.com as soon as possible so we can re-release those tickets to the public.
 ## Costumes/base layer
-EVERYONE- black shoes if possible. We are just looking for shoes that will blend in and not stick out. Black, brown, gray. Just not anything flashy please.
-* Storytellers/Pig 1-3- Black Mary Jane shoes are highly encouraged. If that is not possible we are asking for black flats (Sunday best type shoes).
+* **Shrek**: Nels Mickelson, Sam Richards
+<br/>Base layer- Black shirt, black shorts or leggings, black shoes, black socks
+* **Princess Fiona**: Campbell Anderson, Zuri Monson
+<br/>Base layer- White shirt, black leggings or shorts, black shoes
+* **Teen Fiona**: Brooklyn Anderton, Lucy Pace
+<br/>Base layer- White shirt, black shorts, white tights, black shoes
+* **Young Fiona**: Harper Liddell, Minnie Marriot
+<br/>Base layer- White shirt, black shorts, white tights, black shoes
+* **Donkey**: Emma Dellenbach, Blakely Nelson (donkey ears)
+<br/>Base layer- Black shirt, black leggings or shorts, black shoes, black socks
+* **Lord Farquaad**: Markus Holzer, Seth Wright
+<br/>Base Layer- Black shorts, Black shoes, black socks
+* **Dragon**: Eden Liljenquist, Leilani Walker
+<br/>Base Layer- Black tights/nylons, black shorts, black dress shoes (they can be heels if you would like just make sure you can dance in them).
+* **Story Teller**:
+	1. Audrey Jensen, Amelia Johnson
+	2. Layla Jewkes, Emma Pederson
+	3. Xela Brown, Amelia Olsen
+<br/>Base layer- White shirt, black or white shorts, white tights, black shoes (Mary Jane style if possible)
+* **Pinocchio**: India Robinson, Simon Brady
+<br/>Base layer- Black shoes, black socks, (India can just wear black sunday shoes without socks if she has that). Their base layer will be provided for them. It is part of their costume and we have one for each of them.
+* **Mama Ogre/Mama Bear**: Jane Liljenquist, Scarlet Rupp
+<br/>Base layer- if you have brown shoes and socks use those. Otherwise black shoes and socks. Black Leggings or shorts, black shirt
+* **Papa Ogre/Papa Bear**: Jefferey Thiriot, Mathias Morrow
+<br/>Base layer- if you have brown shoes and socks use those. Otherwise black shoes and socks. Black Leggings or shorts, black shirt
+* **Little Ogre/Little Bear**: Heidi Ence, Maggie Winnegar
+<br/>Base Layer- if you have brown shoes and socks use those. Otherwise black shoes and socks. Black Leggings or shorts, black shirt
+* **Gingy**: Ella Jensen, Lou Morrow
+<br/>Base layer-
+Girl: nude tights, black shoes, black or white shorts
+Boy: black shoes, sock (unless you have brown then use those) black leggings or shorts
+* **Big Bad Wolf/Dwarf**: Everett Hatch, Eli Adams
+<br/>Base layer- black shorts, black shirt, black shoes, black socks
+* **Pig**:
+1. Amelia Geilman, Olivia Peterson (pig ears)
+2. Rebekah Stats, Emily Beveridge
+3. Sadie Young, Ivy Pace
+<br/>Base Layer- white shirt, black or white shorts, White tights, black shoes (if possible Mary Jane style)
+* **Captain of the Guard/Bishop**: Matthew Young, Jake Findlay
+<br/>Base layer- black shorts, black shirt, black shoes, black socks
+* **Wicked Witch**: Sabrina Lunceford, Molly Lynn
+<br/>Base layer- black leggings or shorts, black shirt, black shoes, black socks
+* **Peter Pan/Pied Piper**: Lindsey Bleazard, Corbin Heath
+<br/>Base layer- Black or white shorts, black shirt, black socks, black shoes
+* **Ugly Duckling**: Kelsey Hansen, Emily Cannon
+<br/>Base layer- white shirt, black or white shorts, nude tights/nylons or bare legs, black shoes
+* **Knights/Guards**:
+1. Joseph Hess, Violet Phillips
+2. Leah Taylor, Brooklyn Smith
+3. Emma Groll, Taylor Duke
+4.                      Anna Klimt
+<br/>Base layer- black shorts/leggings and shirt, black shoes, black socks
 
-* Blue Ensemble- black short sleeve shirt, blue leggings
-* Green, Red, Orange Ensemble- black short sleeve shirt, black leggings or black shorts. Think biker shorts.
-** Storytellers/Pig 1-3 white short sleeve shirt, black shorts, white tights.
-* Green ensemble members who know they are wearing a dress that goes to their knees plan on wearing black shorts and white tights. If your dress goes to the floor leggings are fine and either no socks or black socks with your shoes is ideal.
-* Leads not in an Ensemble- black short sleeve shirt, black leggings or black shorts. unless otherwise instructed by the costumer.
+Fairy Tale Characters
+* **Alice in Wonderland**: Tessa Partridge, Ava Howe
+<br/>Base layer- black or white shirt and shorts, white tights, black shoes
+* **Puss in Boots**: Charlie Yates, Kai Johnson
+<br/>Base layer- black shorts and shirt, black shoes, black socks
+* **Gretel**: Liesel Mickelson, Grace Peterson
+<br/>Base layer- black or white shirt and shorts, white tights, black shoes
+* **Red Ridding Hood**: Audri Terry
+<br/>Base layer- black or white shirt and shorts, white tights, black shoes
+* **Dwarf**: Beck Green
+<br/>Base layer- black shorts and shirt, black shoes, black socks
+* **Hansel**: Grayson Birchard
+<br/>Base layer- black shorts and shirt, black shoes, black socks
+* **Dulcians**:
+<br/>Base Layer- Black shirt, navy blue leggings, black socks, black shoes
 
 ## Important dates
 * March 18, 2022 9:00am-12:00pm Swamp cast Dress rehearsal, 1:30-4:30pm Duloc Dress rehearsal
@@ -162,7 +219,7 @@ EVERYONE- black shoes if possible. We are just looking for shoes that will blend
 | Shelby Hatch     | Dulocian             | Blue     |
 | Matthew Hess     | Dulocian             | Blue     |
 | Wiliam James     | Dulocian             | Blue     |
-| Liesel Mickelson | Dulocian             | Blue     |
+| Liesel Mickelson | Fairy Tale Character | Orange   |
 | James Olsen      | Dulocian             | Blue     |
 | Tessa Partridge  | Fairy Tale Character | Orange   |
 | Hazel Pilkington | Dulocian             | Blue     |
