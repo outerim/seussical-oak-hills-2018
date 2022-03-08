@@ -84,7 +84,7 @@ Fairy Tale Characters
 <br/>Base layer- black shorts and shirt, black shoes, black socks
 * **Gretel**: Liesel Mickelson, Grace Peterson
 <br/>Base layer- black or white shirt and shorts, white tights, black shoes
-* **Red Ridding Hood**: Audri Terry
+* **Red Riding Hood**: Audri Terry
 <br/>Base layer- black or white shirt and shorts, white tights, black shoes
 * **Dwarf**: Beck Green
 <br/>Base layer- black shorts and shirt, black shoes, black socks
