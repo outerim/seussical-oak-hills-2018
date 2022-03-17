@@ -5,10 +5,8 @@ title: Oak Hills Musical 2021-2022
 <div class="updates" markdown="1">
 
 # Updates
-## Monday March 7, 2022
+## Wednesday March 16, 2022
 * Welcome
-* Tickets
-* Costumes
 * Updated Calendar
 
 </div>
@@ -16,7 +14,7 @@ title: Oak Hills Musical 2021-2022
 -----------
 
 ## Welcome!
-Parents and Students- take a breath and hold on tight we are about to get crazy busy these last 2 weeks! We have the next two weeks full of run throughs and Dress rehearsal March 18th! Dress rehearsal is mandatory! Swamp cast dress rehearsal 9:00am-12:00pm. Duloc dress rehearsal 1:30pm-4:30pm. Brag tag photos will be taken at the dress rehearsals. Please please please encourage your kids to practice the music at home. The more they practice the more fun they will have performing, we promise! There are still a good amount of tickets left for a few of the shows. Please share the link and password with your friends, family, and neighbors. We would love to have full houses for every performance! We don't charge for tickets and simply ask that you be generous at the concessions stand! DVD's and brag tags will also be available for purchase at each night's performance.
+Parents and Students- WE MADE IT!!! Who can believe we are having our dress rehearsal this weekend and performing next week! Ladies and Gents these kids have worked so hard! They are throughly entertaining, and you are in for a real treat next week! The best thing they can do is practice practice practice this weekend. Constantly listen to the songs. I promise you don't ever have to listen to Shrek Jr again for the rest of your life after this. The calendar is up to date with everyones call times. Please be sure to read the whole list so you can make sure you child is on time! Thank you as always for your support on this crazy ride. ALSO...tickets are SOLD OUT!! Wahoo!!
 
 ## Tickets-
 [Ticket link](https://www.ticketsource.us/oakhills)
