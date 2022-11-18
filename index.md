@@ -28,7 +28,7 @@ March 20th-24th performances
 ## Music Lyrics
 
 [Frozen Jr. youtube video](https://www.yout-ube.com/watch?v=GHTUnzUNiqk&t=3s)<br/>
-[Shrek the Musical Jr. soundtrack](https://youtu.be/7sqopU4V60w)
+[Frozen Jr. soundtrack](https://www.yout-ube.com/watch?v=OQ76jOBvFw8&list=PLJjtr8j_-dr6C-7Xkw5PUn2QHpjSgrXZD)
 
 ## Parent Handout
 [Parent Handout](/files/Frozen/Frozen Jr. Parent Handout.pdf)
