@@ -351,6 +351,10 @@ Group 2- I...believe...I believe...I believe!
 ## Cast Form
 [Cast Form](/files/Shrek/Shrek Jr. Cast Form.pdf)
 
+### Fairy Tale Characters
+[Fairy Tale Creatures PDF](/files/Shrek/auditions/Fairy Tale Creatures.pdf)<br/>
+<div class="audio-player" data-show="Shrek" data-file="03 Story Of My Life.mp3" data-audition-start-at="36"></div>
+
 <script>
 var els = document.querySelectorAll('div.audio-player');
 for (i=0; i < els.length; i++) {
