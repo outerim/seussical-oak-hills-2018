@@ -27,7 +27,7 @@ March 20th-24th performances
 
 ## Music Lyrics
 
-[Frozen Jr. youtube video](https://www.youtube-nocookie.com/embed/bKUDhMU3gsw?playlist=bKUDhMU3gsw&autoplay=1&iv_load_policy=3&loop=1&modestbranding=1&start=)<br/>
+[Frozen Jr. youtube video](https://www.yout-ube.com/watch?v=GHTUnzUNiqk&t=3s)<br/>
 [Shrek the Musical Jr. soundtrack](https://youtu.be/7sqopU4V60w)
 
 ## Parent Handout
@@ -41,13 +41,14 @@ March 20th-24th performances
 
 ### Anna
 <div class="audio-player" data-show="Frozen" data-file="14_Love Is an Open Door.mp3" data-audition-start-at="0"></div>
-<div class="audio-player" data-show="Frozen" data-file="10_For the First Time in Forever.mp3" data-audition-start-at="0"></div>
 
-### Elsa
+### Elsa, Anna, Queen Iduna, Bulda
 <div class="audio-player" data-show="Frozen" data-file="22_Let It Go .mp3" data-audition-start-at="0"></div>
 
-### Hans, Kristoff, Oaken
+### Hans, Kristoff,
 <div class="audio-player" data-show="Frozen" data-file="14_Love Is an Open Door.mp3" data-audition-start-at="0"></div>
+
+### Oaken, King Agnarr, Pabbie, Sven, Bishop,
 
 ### Olaf
 <div class="audio-player" data-show="Frozen" data-file="18_In Summer.mp3" data-audition-start-at="0"></div>
