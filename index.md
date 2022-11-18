@@ -39,9 +39,18 @@ March 20th-24th performances
 ## Audition Practice
 **Instructions:** Below you'll find sheet music and script segments for all the lead audition parts. The music players  allow you to play audition music as it will be played for the students during auditions. You can listen to the whole song with and without guide vocals, and click the Cue for Audition link to jump to the point in the music where the audition lead in will begin. *Note, you can re-cue and change between with and without vocals while the music is playing.* During auditions music will be played **without guide vocals**. Practice the songs with the vocals while you're learning them but gradually **transition yourself to being able to sing without them**.
 
-### Fairy Tale Characters
-[Fairy Tale Creatures PDF](/files/Shrek/auditions/Fairy Tale Creatures.pdf)<br/>
-<div class="audio-player" data-show="Shrek" data-file="03 Story Of My Life.mp3" data-audition-start-at="36"></div>
+### Anna
+<div class="audio-player" data-show="Frozen" data-file="14_Love Is an Open Door.mp3" data-audition-start-at="0"></div>
+<div class="audio-player" data-show="Frozen" data-file="10_For the First Time in Forever.mp3" data-audition-start-at="0"></div>
+
+### Elsa
+<div class="audio-player" data-show="Frozen" data-file="22_Let It Go .mp3" data-audition-start-at="0"></div>
+
+### Hans, Kristoff, Oaken
+<div class="audio-player" data-show="Frozen" data-file="14_Love Is an Open Door.mp3" data-audition-start-at="0"></div>
+
+### Olaf
+<div class="audio-player" data-show="Frozen" data-file="18_In Summer.mp3" data-audition-start-at="0"></div>
 
 ## Cast Lists
 ### Olaf Cast
@@ -194,6 +203,9 @@ for (i=0; i < els.length; i++) {
     visible.currentTime = this.parentNode.dataset.auditionStartAt;
   }
 
+  var fileName = document.createElement('span');
+  fileName.innerHTML = element.dataset.file.replace(/^\d+[_ ]+(.+?)\.mp3$/, "$1");
+
   var audioTagA = document.createElement('audio');
   audioTagA.src = "/files/" + element.dataset.show + "/Guide Vocals/" + element.dataset.file;
   audioTagA.className = "vocals";
@@ -231,6 +243,7 @@ for (i=0; i < els.length; i++) {
   }
 
 
+  element.appendChild(fileName);
   element.appendChild(auditionLink);
   element.appendChild(vocalsSelection);
   element.appendChild(audioTagA);

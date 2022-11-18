@@ -1,0 +1,16 @@
+version: "3.7"
+
+services:
+  musical:
+    command: bundle exec jekyll serve --watch --force_polling --host 0.0.0.0
+    build:
+      context: .
+      network: host
+    volumes:
+      - .:/site
+    ports:
+      - "8787:4000"
+
+networks:
+  default:
+    driver: bridge

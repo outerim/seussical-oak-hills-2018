@@ -17,9 +17,10 @@
   flex-wrap: wrap;
 }
 
-.audio-player a {
+.audio-player span {
   display: block;
   width: 100%;
+  margin-top: 10px !important;
 }
 
 .audio-player select {
