@@ -16,7 +16,7 @@ title: Oak Hills Musical 2022-2023
 ## Welcome!
 Parents and Students- The calendar is current and up to date. Our first ensemble practice was a success and was so much fun! These kids are going to rock this show. We need to give huge props to these kids. In all the years we've been running the rehearsals this was the best behaved group! We spent very little time needing to get them on task. So thank you for that!! Please keep that up. It makes learning the music so much easier. This weeks rehearsal is Tuesday, Wednesday, and Thursday 7:30am FULL ENSEMBLE called.
 
-Please encourage your student(s) to listen to the soundtrack provided below and practice. Practice makes permanent and we would like them to be as confident as possible. 
+Please encourage your student(s) to listen to the soundtrack provided below and practice. Practice makes permanent and we would like them to be as confident as possible.
 
 Down below you will find your student(s) name, cast, and ensemble they will be in. Please review the lists so they know what cast they are in. The ensemble color will be helpful for you to know when/where you student is called. Also please review and make sure their name is spelled correctly. How you see it on the website is how it will go in the program. If someones name is incorrect please email oakhillsmusical@gmail.com and let us know so we can correct it.
 
@@ -28,8 +28,8 @@ March 20th-24th performances
 
 ## Music Lyrics
 
-[Frozen Jr. youtube video](https://www.yout-ube.com/watch?v=GHTUnzUNiqk&t=3s)<br/>
-[Frozen Jr. soundtrack](https://www.yout-ube.com/watch?v=OQ76jOBvFw8&list=PLJjtr8j_-dr6C-7Xkw5PUn2QHpjSgrXZD)
+* [Frozen Jr. youtube video](https://www.yout-ube.com/watch?v=GHTUnzUNiqk&t=3s)
+* [Frozen Jr. soundtrack](https://www.yout-ube.com/watch?v=OQ76jOBvFw8&list=PLJjtr8j_-dr6C-7Xkw5PUn2QHpjSgrXZD)
 
 ## Cast Lists
 ### Olaf Cast
@@ -183,7 +183,6 @@ March 20th-24th performances
 ## Cast Form
 [Cast Form](/files/Frozen/Frozen Jr. Cast Form.pdf)
 
-<!--
 #### Leads
 
 |Name|Part|Ensemble|
@@ -321,6 +320,9 @@ for (i=0; i < els.length; i++) {
   var element = els[i];
   element.dataset.index = i;
 
+  var fileName = document.createElement('span');
+  fileName.innerHTML = element.dataset.file.replace(/^\d+[_ ]+(.+?)\.mp3$/, "$1");
+
   var auditionLink = document.createElement('a');
   auditionLink.innerHTML = 'Cue for Audition';
   auditionLink.onclick = function() {
@@ -330,9 +332,6 @@ for (i=0; i < els.length; i++) {
     })[0];
     visible.currentTime = this.parentNode.dataset.auditionStartAt;
   }
-
-  var fileName = document.createElement('span');
-  fileName.innerHTML = element.dataset.file.replace(/^\d+[_ ]+(.+?)\.mp3$/, "$1");
 
   var audioTagA = document.createElement('audio');
   audioTagA.src = "/files/" + element.dataset.show + "/Guide Vocals/" + element.dataset.file;
