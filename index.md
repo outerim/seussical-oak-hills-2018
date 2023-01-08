@@ -312,7 +312,6 @@ March 20th-24th performances
 | Charlie Yates    | Fairy Tale Character | Orange   |
 | Hank Yates       | Dulocian             | Blue     |
 | Spencer Young    | Dulocian             | Blue     |
--->
 
 <script>
 var els = document.querySelectorAll('div.audio-player');
