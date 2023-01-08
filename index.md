@@ -5,7 +5,7 @@ title: Oak Hills Musical 2022-2023
 <div class="updates" markdown="1">
 
 # Updates
-## Friday November 18, 2022
+## Sunday January 8, 2023
 * Welcome
 * Updated Calendar
 
@@ -14,47 +14,174 @@ title: Oak Hills Musical 2022-2023
 -----------
 
 ## Welcome!
-Parents and Students- it's time to get excited for our new show FROZEN JR!!! Down below you will find all the information you need for the up coming weeks. The parent and student handout, and the students participation form. The form needs to be filled out, signed, and $30.00 fee paid and turned into the front office. The best way to get information is to check the website. The google calendar will always let you know where and when your student will be needed for rehearsal. We will have to casts. The Sven cast and the Olaf cast. Most rehearsals will be Tuesday, Wednesday, and Thursday mornings starting Jan. 5th.
+Parents and Students- The calendar is current and up to date. Our first ensemble practice was a success and was so much fun! These kids are going to rock this show. We need to give huge props to these kids. In all the years we've been running the rehearsals this was the best behaved group! We spent very little time needing to get them on task. So thank you for that!! Please keep that up. It makes learning the music so much easier. This weeks rehearsal is Tuesday, Wednesday, and Thursday 7:30am FULL ENSEMBLE called.
+
+Please encourage your student(s) to listen to the soundtrack provided below and practice. Practice makes permanent and we would like them to be as confident as possible. 
+
+Down below you will find your student(s) name, cast, and ensemble they will be in. Please review the lists so they know what cast they are in. The ensemble color will be helpful for you to know when/where you student is called. Also please review and make sure their name is spelled correctly. How you see it on the website is how it will go in the program. If someones name is incorrect please email oakhillsmusical@gmail.com and let us know so we can correct it.
+
 
 ## Important dates
-Nov. 18th 1:30 pm Parent meetting
-Dec. 2nd. 5th-6th grade lead auditons. 1:30-3:00 girls. 2:45-4:30 boys.
-Dec. 9th Leads cast list posted after school Leads pick up their scripts
-Jan. 4th Leads rehearsal 7:30am at Oak hills
-Jan. 5th ALL called for first music rehearsal. 7:30am at Oak hills
 March 17th MANDATORY dress rehearsal. First cast 9:00am-12:00pm. Second cast 1:30pm-4:30pm
 March 20th-24th performances
+
 
 ## Music Lyrics
 
 [Frozen Jr. youtube video](https://www.yout-ube.com/watch?v=GHTUnzUNiqk&t=3s)<br/>
 [Frozen Jr. soundtrack](https://www.yout-ube.com/watch?v=OQ76jOBvFw8&list=PLJjtr8j_-dr6C-7Xkw5PUn2QHpjSgrXZD)
 
+## Cast Lists
+### Olaf Cast
+#### Leads
+
+| Name               | Part                      | Ensemble |
+|--------------------|---------------------------|----------|
+| Reese Blake        | Middle Anna/ Snow Chorus  |          |
+| Christina Campbell | Snow Chorus               | green    |
+| Emily Cannon       | Townspeople #1            | yellow   |
+| Katherine Cannon   | Townspeople #2            | yellow   |
+| Minnie Collard     | Elsa                      |          |
+| Emma Dellenbach    | Anna                      |          |
+| Taylor Duke        | Cook/Family #4            | blue     |
+| Heidi Ence         | Olaf                      |          |
+| Adelaide England   | Housekeeper/Family #1     | blue     |
+| Beck Green         | Weselton                  | red      |
+| Emma Groll         | Snow Chorus               | green    |
+| Corbin Heath       | Pabbie                    | orange   |
+| Joseph Hess        | Sven                      |          |
+| Matthew Hess       | Kristoff                  |          |
+| Lucy Higbee        | Townspeople #4            | yellow   |
+| Markus Holzer      | Hans                      |          |
+| Kate Jamison       | Queen Iduna               |          |
+| Kai Johnson        | Oaken                     |          |
+| Anna Klimt         | Handmaiden/Family #3      | blue     |
+| Jane Liljenquist   | Bulda                     | orange   |
+| Henri Olsen        | Butler/Family #2          | blue     |
+| Elle Parker        | Young Anna/ Snow Chorus   |          |
+| Kate Rose          | Snow Chorus               | green    |
+| Drew Terry         | Bishop/Steward/Family #5  | blue     |
+| Lillian Thiriot    | Middle Elsa/ Snow Chorus  |          |
+| Leo Thorup         | Townspeople #3            | yellow   |
+| Caleb Wright       | Kind Agnar                |          |
+| Rebecca Yoho       | Young Elsa/ Snow Chorus   |          |
+
+#### Ensemble
+
+| Name               | Part        | Ensemble |
+|--------------------|-------------|----------|
+| Lizzy Adams        | Townspeople | red      |
+| Jacob Beck         | Townspeople | red      |
+| Wren Blake         | Hidden folk | orange   |
+| Alyssa Bremner     | Townspeople | red      |
+| Hannah Campbell    | Hidden folk | orange   |
+| Molly Clark        | Hidden folk | orange   |
+| Zoey Clark         | Hidden folk | orange   |
+| Louisa Collard     | Hidden folk | orange   |
+| Leilani Coombs     | Townspeople | red      |
+| Calvin Cressall    | Hidden folk | orange   |
+| Clara Davidson     | Hidden folk | orange   |
+| Samantha Duke      | Hidden folk | orange   |
+| Jack England       | Townspeople | red      |
+| Hattie Green       | Hidden folk | orange   |
+| Molly Gonzalez     | Townspeople | red      |
+| Brielle Heath      | Hidden folk | orange   |
+| Nora Higbee        | Hidden folk | orange   |
+| Christian Holzer   | Hidden folk | orange   |
+| Eliza Klimt        | Hidden folk | orange   |
+| Kollins Kupfer     | Townspeople | red      |
+| Henry Liljenquist  | Hidden folk | orange   |
+| Jane Moench        | Townspeople | red      |
+| Beatrice Moore     | Hidden folk | orange   |
+| Elizabeth Pedersen | Hidden folk | orange   |
+| Grace Peterson     | Townspeople | red      |
+| Stella Peterson    | Hidden folk | orange   |
+| Beck Terry         | Hidden folk | orange   |
+| Tess Terry         | Hidden folk | orange   |
+| George Thiriot     | Townspeople | red      |
+| Charlie Yates      | Townspeople | red      |
+| Hank Yates         | Townspeople | red      |
+| Sam Yates          | Hidden folk | orange   |
+| Lindsay Yoho       | Hidden folk | orange   |
+
+### Sven Cast
+#### Leads
+
+| Name             | Part                      | Ensemble |
+|------------------|---------------------------|----------|
+| Greyson Birchard | Weselton                  | red      |
+| Hadlee Bronson   | Townspeople #2            | yellow   |
+| Sophia Burton    | Handmaiden/Family #3      | blue     |
+| Clara Clark      | Middle Anna/ Snow Chorus  |          |
+| Pierce Duryea    | Hans                      |          |
+| Leni Frei        | Cook/Family #4            |          |
+| Evan Fuller      | Kind Agnar                |          |
+| Annie Harper     | Young Anna/ Snow Chorus   |          |
+| Shelby Hatch     | Snow Chorus               | green    |
+| Alyse Hill       | Housekeeper/Family #1     | blue     |
+| Jax Holley       | Bishop/Steward/Family #5  | blue     |
+| Mabel Hutchings  | Snow Chorus               | green    |
+| Peter Hutchings  | Oaken                     |          |
+| Ella Jensen      | Anna                      |          |
+| Amelia Lyman     | Snow Chorus               | green    |
+| Molly Lynn       | Queen Iduna               |          |
+| Dean Madsen      | Kristoff                  |          |
+| Liesel Mickelson | Young Elsa/ Snow Chorus   |          |
+| Marie Meidell    | Olaf                      |          |
+| Lou Morrow       | Pabbie                    | orange   |
+| Penny Olsen      | Elsa                      |          |
+| MJ Orme          | Townspeople #3            | yellow   |
+| Kallie Page      | Townspeople #1            | yellow   |
+| Pippa Rafferty   | Townspeople #4            | yellow   |
+| Levi Steffen     | Butler/Family #2          | blue     |
+| Vivi Stevenson   | Middle Elsa/ Snow Chorus  |          |
+| Mason Stewart    | Sven                      |          |
+| Sadie Young      | Bulda                     | orange   |
+
+#### Ensemble
+
+| Name             | Part        | Ensemble |
+|------------------|-------------|----------|
+| Blake Anderson   | Townspeople | red      |
+| Brielle Anderson | Hidden folk | orange   |
+| Tyce Anderson    | Hidden folk | orange   |
+| Caroline Bahr    | Hidden folk | orange   |
+| Thomas Bahr      | Hidden folk | orange   |
+| Benjamin Beebe   | Hidden folk | orange   |
+| Graham Bergstedt | Hidden folk | orange   |
+| Lucy Birchard    | Hidden folk | orange   |
+| Max Boardman     | Townspeople | red      |
+| Owen Boardman    | Hidden folk | orange   |
+| Lily Christensen | Townspeople | red      |
+| Charlotte Cone   | Hidden folk | orange   |
+| Nixon Dunnigan   | Hidden folk | orange   |
+| Sydney Dunstan   | Hidden folk | orange   |
+| Taylor Duryea    | Hidden folk | orange   |
+| Penelope Hanks   | Hidden folk | orange   |
+| Jace Holley      | Townspeople | red      |
+| Jett Holley      | Townspeople | red      |
+| Emily Jeppson    | Townspeople | red      |
+| Simon Lynn       | Townspeople | red      |
+| Caiden Madsen    | Hidden folk | orange   |
+| Phin Morrow      | Hidden folk | orange   |
+| Thad Morrow      | Hidden folk | orange   |
+| Whitney Neilson  | Townspeople | red      |
+| Violet Olsen     | Hidden folk | orange   |
+| Hazel Pilkington | Townspeople | red      |
+| Lincoln Richards | Hidden folk | orange   |
+| Marina Shike     | Townspeople | red      |
+| Charlie Skidmore | Hidden folk | orange   |
+| Hannah Smoot     | Townspeople | orange   |
+| Kate Stevenson   | Townspeople | red      |
+| Adelyn Wall      | Hidden folk | orange   |
+| Breanne Wall     | Hidden folk | orange   |
+| Easton Wendel    | Townspeople | red      |
+
 ## Parent Handout
 [Parent Handout](/files/Frozen/Frozen Jr. Parent Handout.pdf)
 
 ## Cast Form
 [Cast Form](/files/Frozen/Frozen Jr. Cast Form.pdf)
-
-## Audition Practice
-**Instructions:** Below you'll find sheet music and script segments for all the lead audition parts. The music players  allow you to play audition music as it will be played for the students during auditions. You can listen to the whole song with and without guide vocals, and click the Cue for Audition link to jump to the point in the music where the audition lead in will begin. *Note, you can re-cue and change between with and without vocals while the music is playing.* During auditions music will be played **without guide vocals**. Practice the songs with the vocals while you're learning them but gradually **transition yourself to being able to sing without them**.
-
-### Anna
-<div class="audio-player" data-show="Frozen" data-file="14_Love Is an Open Door.mp3" data-audition-start-at="0"></div>
-
-### Elsa, Anna, Queen Iduna, Bulda
-<div class="audio-player" data-show="Frozen" data-file="22_Let It Go .mp3" data-audition-start-at="0"></div>
-
-### Hans, Kristoff,
-<div class="audio-player" data-show="Frozen" data-file="14_Love Is an Open Door.mp3" data-audition-start-at="0"></div>
-
-### Oaken, King Agnarr, Pabbie, Sven, Bishop,
-
-### Olaf
-<div class="audio-player" data-show="Frozen" data-file="18_In Summer.mp3" data-audition-start-at="0"></div>
-
-## Cast Lists
-### Olaf Cast
 
 <!--
 #### Leads
