@@ -80,6 +80,7 @@ March 20th-24th performances
 | Leilani Coombs     | Townspeople | red      |
 | Calvin Cressall    | Hidden folk | orange   |
 | Clara Davidson     | Hidden folk | orange   |
+| Daniel Dresher     | Hidden folk | orange   |
 | Samantha Duke      | Hidden folk | orange   |
 | Jack England       | Townspeople | red      |
 | Hattie Green       | Hidden folk | orange   |
@@ -145,7 +146,6 @@ March 20th-24th performances
 | Brielle Anderson | Hidden folk | orange   |
 | Tyce Anderson    | Hidden folk | orange   |
 | Caroline Bahr    | Hidden folk | orange   |
-| Thomas Bahr      | Hidden folk | orange   |
 | Benjamin Beebe   | Hidden folk | orange   |
 | Graham Bergstedt | Hidden folk | orange   |
 | Lucy Birchard    | Hidden folk | orange   |
