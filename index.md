@@ -75,7 +75,6 @@ March 20th-24th performances
 | Wren Blake         | Hidden folk | orange   |
 | Alyssa Bremner     | Townspeople | red      |
 | Hannah Campbell    | Hidden folk | orange   |
-| Molly Clark        | Hidden folk | orange   |
 | Zoey Clark         | Hidden folk | orange   |
 | Louisa Collard     | Hidden folk | orange   |
 | Leilani Coombs     | Townspeople | red      |
@@ -153,6 +152,7 @@ March 20th-24th performances
 | Max Boardman     | Townspeople | red      |
 | Owen Boardman    | Hidden folk | orange   |
 | Lily Christensen | Townspeople | red      |
+| Molly Clark      | Hidden folk | orange   |
 | Charlotte Cone   | Hidden folk | orange   |
 | Nixon Dunnigan   | Hidden folk | orange   |
 | Sydney Dunstan   | Hidden folk | orange   |
