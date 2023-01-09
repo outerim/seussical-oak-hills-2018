@@ -96,6 +96,7 @@ March 20th-24th performances
 | Elizabeth Pedersen | Hidden folk | orange   |
 | Grace Peterson     | Townspeople | red      |
 | Stella Peterson    | Hidden folk | orange   |
+| Lincoln Richards   | Hidden folk | orange   |
 | Beck Terry         | Hidden folk | orange   |
 | Tess Terry         | Hidden folk | orange   |
 | George Thiriot     | Townspeople | red      |
@@ -168,7 +169,6 @@ March 20th-24th performances
 | Whitney Neilson  | Townspeople | red      |
 | Violet Olsen     | Hidden folk | orange   |
 | Hazel Pilkington | Townspeople | red      |
-| Lincoln Richards | Hidden folk | orange   |
 | Marina Shike     | Townspeople | red      |
 | Charlie Skidmore | Hidden folk | orange   |
 | Hannah Smoot     | Townspeople | orange   |
