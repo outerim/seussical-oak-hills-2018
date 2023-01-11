@@ -170,7 +170,7 @@ March 20th-24th performances
 | Violet Olsen     | Hidden folk | orange   |
 | Hazel Pilkington | Townspeople | red      |
 | Marina Shike     | Townspeople | red      |
-| Charlie Skidmore | Hidden folk | orange   |
+| Charly Skidmore  | Hidden folk | orange   |
 | Hannah Smoot     | Townspeople | orange   |
 | Kate Stevenson   | Townspeople | red      |
 | Adelyn Wall      | Hidden folk | orange   |
