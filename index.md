@@ -5,7 +5,7 @@ title: Oak Hills Musical 2022-2023
 <div class="updates" markdown="1">
 
 # Updates
-## Sunday January 8, 2023
+## Sunday January 22, 2023
 * Welcome
 * Updated Calendar
 
@@ -14,16 +14,19 @@ title: Oak Hills Musical 2022-2023
 -----------
 
 ## Welcome!
-Parents and Students- The calendar is current and up to date. Our first ensemble practice was a success and was so much fun! These kids are going to rock this show. We need to give huge props to these kids. In all the years we've been running the rehearsals this was the best behaved group! We spent very little time needing to get them on task. So thank you for that!! Please keep that up. It makes learning the music so much easier. This weeks rehearsal is Tuesday, Wednesday, and Thursday 7:30am FULL ENSEMBLE called.
+Parents and Students- WOW!! It has been a great couple of weeks. The kids now know all of the music from start to end. They have been taught their parts/harmonies. Please encourage them to practice as much as possible. Everyone sings almost in every song whether they are on the stage or not. These kids have worked so hard and it has been so much fun! Now the real fun starts! Starting this week they will start working with their fabulous directors and in their invidual ensembles. The calander has been updated with who is called on what day and where they are called. If your student are in the portable drop them off at the front doors. They will walk through the school and out the dock doors to get to the portable. That helps keep the cars out of the smally alley and less slipping on potential ice walking back there.
 
-Please encourage your student(s) to listen to the soundtrack provided below and practice. Practice makes permanent and we would like them to be as confident as possible.
+Please read through the list below and make sure you know what enseble you kid(s) are part of. If you do not see their name, and or ensemble on the list that means they are not needed. Not everyone will be called all the time so it is important to check the calendar.
 
-Down below you will find your student(s) name, cast, and ensemble they will be in. Please review the lists so they know what cast they are in. The ensemble color will be helpful for you to know when/where you student is called. Also please review and make sure their name is spelled correctly. How you see it on the website is how it will go in the program. If someones name is incorrect please email oakhillsmusical@gmail.com and let us know so we can correct it.
+Also please review and make sure their name is spelled correctly. How you see it on the website is how it will go in the program. If someones name is incorrect please email oakhillsmusical@gmail.com and let us know so we can correct it.
 
 
 ## Important dates
 March 17th MANDATORY dress rehearsal. First cast 9:00am-12:00pm. Second cast 1:30pm-4:30pm
 March 20th-24th performances
+March 20th and 22nd 7:00pm Olaf cast performances
+March 24th 4:00pm Olaf cast performance
+March 21st, 23rd, 24th 7:00pm Sven cast performances
 
 
 ## Music Lyrics
@@ -97,6 +100,8 @@ March 20th-24th performances
 | Grace Peterson     | Townspeople | red      |
 | Stella Peterson    | Hidden folk | orange   |
 | Lincoln Richards   | Hidden folk | orange   |
+| Bailey Stewart     | Hidden folk | red      |
+| Graham Stewart     | Hidden folk | red      |
 | Beck Terry         | Hidden folk | orange   |
 | Tess Terry         | Hidden folk | orange   |
 | George Thiriot     | Townspeople | red      |
