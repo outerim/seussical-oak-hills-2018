@@ -176,7 +176,7 @@ March 21st, 23rd, 24th 7:00pm Sven cast performances
 | Hazel Pilkington | Townspeople | red      |
 | Marina Shike     | Townspeople | red      |
 | Charly Skidmore  | Hidden folk | orange   |
-| Hannah Smoot     | Townspeople | orange   |
+| Hannah Smoot     | Townspeople | red      |
 | Kate Stevenson   | Townspeople | red      |
 | Adelyn Wall      | Hidden folk | orange   |
 | Breanne Wall     | Hidden folk | orange   |
