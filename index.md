@@ -5,7 +5,7 @@ title: Oak Hills Musical 2022-2023
 <div class="updates" markdown="1">
 
 # Updates
-## Sunday January 22, 2023
+## Sunday January 29, 2023
 * Welcome
 * Updated Calendar
 
@@ -14,12 +14,26 @@ title: Oak Hills Musical 2022-2023
 -----------
 
 ## Welcome!
-Parents and Students- WOW!! It has been a great couple of weeks. The kids now know all of the music from start to end. They have been taught their parts/harmonies. Please encourage them to practice as much as possible. Everyone sings almost in every song whether they are on the stage or not. These kids have worked so hard and it has been so much fun! Now the real fun starts! Starting this week they will start working with their fabulous directors and in their invidual ensembles. The calander has been updated with who is called on what day and where they are called. If your student are in the portable drop them off at the front doors. They will walk through the school and out the dock doors to get to the portable. That helps keep the cars out of the smally alley and less slipping on potential ice walking back there.
+Parents and Students- the kids are loving being in with their ensembles and working with their directors. This show is going to be so cute! Get excited if you aren't already. PLEASE practice at home! We can not stress that enough. It is time to start thining about costume bases. If you are new to the musical or have forgetten, a base layer is what is worn under the costume. There is a list of things your students will need just below. Please find their ensemble color and see what they will be needing. NOT everyone is listed. We are still working out what eveyone needs as we are making and finding costumes. If your ensemble is not listed don't fret we will get you! We are in need of some items for costumes if you happen to have them and are willing to let us borrow them for the show. We are in need of a few kid size (preferred but we'll take adult size too) Hawaiin shirts. If you have any and are willing to let us borrow them please reach out to Savannah Jensen and let her know. THANK YOU!!
 
 Please read through the list below and make sure you know what enseble you kid(s) are part of. If you do not see their name, and or ensemble on the list that means they are not needed. Not everyone will be called all the time so it is important to check the calendar.
 
 Also please review and make sure their name is spelled correctly. How you see it on the website is how it will go in the program. If someones name is incorrect please email oakhillsmusical@gmail.com and let us know so we can correct it.
 
+## Costumes
+It is time to start thinking of base layers for your kids.
+* Orange Ensemble- gray leggings and long sleeve gray shirt
+* Yellow Ensemble- GIRLS- White tights, shorts (for under skirts), white tshirt (must have short arm sleeves), black or brown mary jane style shoes or flats (think sunday shoes).
+BOYS- Cordiroy styles pants, brown pants, khaki pants, sunday style shoes (please no sneakers). Shirt instructions coming soon.
+* Blue Ensemble- GIRLS- White tights, shorts (for under skirts), white tshirt (must have short arm sleeves), black or brown mary jane style shoes or flats (think sunday shoes).
+BOYS- instructions to come someone
+* Red Ensemble-
+GIRLS- White tights, shorts (for under skirts), white tshirt (must have short arm sleeves), black or brown mary jane style shoes or flats (think sunday shoes).
+BOYS- Cordiroy styles pants, brown pants, khaki pants, sunday style shoes (please no sneakers). Shirt instructions coming soon.
+* Little/Middle Anna- white tights, shorts, short sleeve white shirt, black mary jane shoes, or black flats
+* Little/Middle Elsa- white tights, shorts, short sleeve white shirt, black mary jane shoes, or black flats
+* Queen Induna- white tights, shorts, short sleeve white shirt, black flats
+* King Agnarr- black dress pants, Black dress shoes, black socks, short sleeve shirt
 
 ## Important dates
 March 17th MANDATORY dress rehearsal. First cast 9:00am-12:00pm. Second cast 1:30pm-4:30pm
@@ -85,7 +99,6 @@ March 21st, 23rd, 24th 7:00pm Sven cast performances
 | Clara Davidson     | Hidden folk | orange   |
 | Daniel Dresher     | Hidden folk | orange   |
 | Samantha Duke      | Hidden folk | orange   |
-| Jack England       | Townspeople | red      |
 | Hattie Green       | Hidden folk | orange   |
 | Molly Gonzalez     | Townspeople | red      |
 | Brielle Heath      | Hidden folk | orange   |
@@ -120,7 +133,7 @@ March 21st, 23rd, 24th 7:00pm Sven cast performances
 | Sophia Burton    | Handmaiden/Family #3      | blue     |
 | Clara Clark      | Middle Anna/ Snow Chorus  |          |
 | Pierce Duryea    | Hans                      |          |
-| Leni Frei        | Cook/Family #4            |          |
+| Leni Frei        | Cook/Family #4            | blue     |
 | Evan Fuller      | Kind Agnar                |          |
 | Annie Harper     | Young Anna/ Snow Chorus   |          |
 | Shelby Hatch     | Snow Chorus               | green    |
