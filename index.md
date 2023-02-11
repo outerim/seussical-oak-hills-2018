@@ -5,7 +5,7 @@ title: Oak Hills Musical 2022-2023
 <div class="updates" markdown="1">
 
 # Updates
-## Sunday January 29, 2023
+## Saturday Feb. 11, 2023
 * Welcome
 * Updated Calendar
 
@@ -14,9 +14,8 @@ title: Oak Hills Musical 2022-2023
 -----------
 
 ## Welcome!
-Parents and Students- the kids are loving being in with their ensembles and working with their directors. This show is going to be so cute! Get excited if you aren't already. PLEASE practice at home! We can not stress that enough. It is time to start thining about costume bases. If you are new to the musical or have forgetten, a base layer is what is worn under the costume. There is a list of things your students will need just below. Please find their ensemble color and see what they will be needing. NOT everyone is listed. We are still working out what eveyone needs as we are making and finding costumes. If your ensemble is not listed don't fret we will get you! We are in need of some items for costumes if you happen to have them and are willing to let us borrow them for the show. We are in need of a few kid size (preferred but we'll take adult size too) Hawaiin shirts. If you have any and are willing to let us borrow them please reach out to Savannah Jensen and let her know. THANK YOU!!
-
-Please read through the list below and make sure you know what enseble you kid(s) are part of. If you do not see their name, and or ensemble on the list that means they are not needed. Not everyone will be called all the time so it is important to check the calendar.
+Parents and Students- calendar is up to date. Not everyone will be called all the time so it is important to alwasy check. If you are unsure still of what enselmble you child is part of it is listed next to their name.
+PLEASE practice at home! We can not stress that enough. It is time to start thining about costume bases. If you are new to the musical or have forgetten, a base layer is what is worn under the costume. There is a list of things your students will need just below. Please find their ensemble color and see what they will be needing. NOT everyone is listed. We are still working out what eveyone needs as we are making and finding costumes. If your ensemble is not listed don't fret we will get you! We are in need of some items for costumes if you happen to have them and are willing to let us borrow them for the show. We are in need of a few kid size (preferred but we'll take adult size too) Hawaiin shirts. If you have any and are willing to let us borrow them please reach out to Savannah Jensen and let her know. THANK YOU!!
 
 Also please review and make sure their name is spelled correctly. How you see it on the website is how it will go in the program. If someones name is incorrect please email oakhillsmusical@gmail.com and let us know so we can correct it.
 
@@ -34,6 +33,10 @@ BOYS- Cordiroy styles pants, brown pants, khaki pants, sunday style shoes (pleas
 * Little/Middle Elsa- white tights, shorts, short sleeve white shirt, black mary jane shoes, or black flats
 * Queen Induna- white tights, shorts, short sleeve white shirt, black flats
 * King Agnarr- black dress pants, Black dress shoes, black socks, short sleeve shirt
+* Elsa- nude footless tights, black flats (need to be able to kick them off), white thin strap tank top, shorts for under dress.
+* Anna- white tights, black sunday shoes (corontaion dress), black boots (blue dress), tank top, shorts
+* Green ensemble- long sleeve white leotard. Here is a link to one on amazon if needed.
+[White leotard link](https://www.amazon.com/Bloch-Girls-Essential-Sleeve-Leotard/dp/B00PG8HEXW/ref=sr_1_8?crid=2K02D0L5VKQM&keywords=long%2Bsleeve%2Bwhite%2Bleotard%2Bsize%2B14-16&qid=1676151080&sprefix=long%2Bsleeve%2Bwhite%2Bleotard%2Bsize%2B14-16%2Caps%2C139&sr=8-8&th=1&psc=1s)
 
 ## Important dates
 March 17th MANDATORY dress rehearsal. First cast 9:00am-12:00pm. Second cast 1:30pm-4:30pm
@@ -94,11 +97,12 @@ March 21st, 23rd, 24th 7:00pm Sven cast performances
 | Hannah Campbell    | Hidden folk | orange   |
 | Zoey Clark         | Hidden folk | orange   |
 | Louisa Collard     | Hidden folk | orange   |
-| Leilani Coombs     | Townspeople | red      |
 | Calvin Cressall    | Hidden folk | orange   |
 | Clara Davidson     | Hidden folk | orange   |
 | Daniel Dresher     | Hidden folk | orange   |
 | Samantha Duke      | Hidden folk | orange   |
+| Jake England       | Stage Crew  |          |
+| Kaden Geisler      | Townspeople | red      |
 | Hattie Green       | Hidden folk | orange   |
 | Molly Gonzalez     | Townspeople | red      |
 | Brielle Heath      | Hidden folk | orange   |
@@ -109,12 +113,14 @@ March 21st, 23rd, 24th 7:00pm Sven cast performances
 | Henry Liljenquist  | Hidden folk | orange   |
 | Jane Moench        | Townspeople | red      |
 | Beatrice Moore     | Hidden folk | orange   |
+| Ivy Pace           | Stage Crew  |          |
 | Elizabeth Pedersen | Hidden folk | orange   |
 | Grace Peterson     | Townspeople | red      |
 | Stella Peterson    | Hidden folk | orange   |
 | Lincoln Richards   | Hidden folk | orange   |
 | Bailey Stewart     | Hidden folk | red      |
 | Graham Stewart     | Hidden folk | red      |
+| Aleks Streeter     | Stage Crew  |          |
 | Beck Terry         | Hidden folk | orange   |
 | Tess Terry         | Hidden folk | orange   |
 | George Thiriot     | Townspeople | red      |
@@ -134,7 +140,7 @@ March 21st, 23rd, 24th 7:00pm Sven cast performances
 | Clara Clark      | Middle Anna/ Snow Chorus  |          |
 | Pierce Duryea    | Hans                      |          |
 | Leni Frei        | Cook/Family #4            | blue     |
-| Evan Fuller      | Kind Agnar                |          |
+| Evan Fuller      | Kind Agnarr               |          |
 | Annie Harper     | Young Anna/ Snow Chorus   |          |
 | Shelby Hatch     | Snow Chorus               | green    |
 | Alyse Hill       | Housekeeper/Family #1     | blue     |
@@ -168,7 +174,6 @@ March 21st, 23rd, 24th 7:00pm Sven cast performances
 | Benjamin Beebe   | Hidden folk | orange   |
 | Graham Bergstedt | Hidden folk | orange   |
 | Lucy Birchard    | Hidden folk | orange   |
-| Max Boardman     | Townspeople | red      |
 | Owen Boardman    | Hidden folk | orange   |
 | Lily Christensen | Townspeople | red      |
 | Molly Clark      | Hidden folk | orange   |
