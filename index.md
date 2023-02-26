@@ -21,21 +21,34 @@ Also please review and make sure their name is spelled correctly. How you see it
 
 ## Costumes
 It is time to start thinking of base layers for your kids.
-* Orange Ensemble- gray leggings and long sleeve gray shirt
-* Yellow Ensemble- GIRLS- White tights, shorts (for under skirts), white tshirt (must have short arm sleeves), black or brown mary jane style shoes or flats (think sunday shoes).
-BOYS- Cordiroy styles pants, brown pants, khaki pants, sunday style shoes (please no sneakers). Shirt instructions coming soon.
-* Blue Ensemble- GIRLS- White tights, shorts (for under skirts), white tshirt (must have short arm sleeves), black or brown mary jane style shoes or flats (think sunday shoes).
-BOYS- instructions to come someone
-* Red Ensemble-
-GIRLS- White tights, shorts (for under skirts), white tshirt (must have short arm sleeves), black or brown mary jane style shoes or flats (think sunday shoes).
-BOYS- Cordiroy styles pants, brown pants, khaki pants, sunday style shoes (please no sneakers). Shirt instructions coming soon.
-* Little/Middle Anna- white tights, shorts, short sleeve white shirt, black mary jane shoes, or black flats
-* Little/Middle Elsa- white tights, shorts, short sleeve white shirt, black mary jane shoes, or black flats
-* Queen Induna- white tights, shorts, short sleeve white shirt, black flats
-* King Agnarr- black dress pants, Black dress shoes, black socks, short sleeve shirt
-* Elsa- nude footless tights, black flats (need to be able to kick them off), white thin strap tank top, shorts for under dress.
-* Anna- white tights, black sunday shoes (corontaion dress), black boots (blue dress), tank top, shorts
-* Green ensemble- long sleeve white leotard. Here is a link to one on amazon if needed.
+* **Orange Ensemble**- HIDDEN FOLK- gray leggings, gray long sleeve shirt, bright colored shorts, swim trunks, or skirt to wear over gray leggings. Black shoes. NO WHITE SOCKS
+* **Yellow Ensemble**- TOWNSPEOPLE-
+<br/>**Girls**- white tights, tight shorts (think biker shorts) to wear over tights, white short sleeve shirt, black shoes. Mary Jane style preferred, dance shoes are fine, PLEASE NO TENNIS SHOES.
+<br/>**Boys**- tan, brown, khaki dress pants, corduroy something along those line. White, light blue, light yellow button up long sleeve or short sleeve shirt. Could also be a polo shirt. They will be wearing lederhosen. Brown or black dress shoes. PLEASE NO TENNIS SHOES.
+* **Blue ensemble**/CASTLE STAFF-
+<br/>**Butler**- possibly black suit pants (if the ones we have don’t fit). Tighter shorts or leggings to wear under suit pants. White short sleeve shirt. Black dress shoes. Black socks.
+<br/>**Chef**- black pants or leggings, white tights, (you will be changing into a dress for Oakens family), White short sleeve shirt. Black dress shoes. Mary Jane style preferred, dance shoes are fine, PLEASE NO TENNIS SHOES.
+<br/>**Handmaiden**- white tights, tight shorts (think biker style shorts) over tights, White short sleeve shirt, black dress shoes. Mary Jane style preferred, dance shoes are fine, PLEASE NO TENNIS SHOES.
+<br/>**Housekeeper**- white tights, tight shorts (think biker style shorts) over tights, White short sleeve shirt, black dress shoes. Mary Jane style preferred, dance shoes are fine, PLEASE NO TENNIS SHOES.
+<br/>**Bishop**- Black or brown dress pants, White long sleeve button up dress shirt, black dress shoes. PLEASE NO TENNIS SHOES.
+* **Red Ensemble**- TOWNSPEOPLE
+<br/>**Girls**- white tights, tight shorts (think biker shorts) to wear over tights, white short sleeve shirt, black shoes. Mary Jane style preferred, dance shoes are fine, PLEASE NO TENNIS SHOES.
+<br/>**Boys**- tan, brown, khaki dress pants, corduroy something along those line. White, light blue, light yellow button up long sleeve or short sleeve shirt. Could also be a polo shirt. They will be wearing lederhosen. Brown or black dress shoes. PLEASE NO TENNIS SHOES.
+* **Pabbie/Bulda**- gray leggings, gray long sleeve shirt, black shoes. No white socks
+* **Oaken**- brown corduroy style pants if possible. White short sleeve shirt, black or brown shoes PLEASE NO TENNIS SHOES. Brown or black socks
+* **Weselton**- Beck- tight shorts, white button up shirt, black dress shoes, black socks
+Grayson- black dress pants, white button up shirt, black dress shoes, black socks.
+* **Kristoff**- tight shorts or leggings, white short sleeve shirt, brown or black shoes PLEASE NO TENNIS SHOES. Brown or black socks.
+* **Sven**- brown pants, brown shirt, brown  or black shoes PLEASE NO TENNIS SHOES. Brown or black socks.
+* **Hans**- black dress pants, black dress shoes, white short sleeve shirt. Black socks
+* **Little Anna/Elsa**- white tights, tight shorts over the white tights, short sleeve white shirt,  black dress shoes. Mary Jane style preferred not required. You will change into long sleeve leo/footless tights and skirt for snow chorus *see snow chorus base requirements.
+* **Middle Anna/Elsa**- white tights, tight shorts over the white tights, short sleeve black shirt, black dress shoes. Mary Jane style preferred not required. You will change into long sleeve leo/footless tights and skirt for snow chorus *see snow chorus base requirements.
+* **Queen Induna**- Queen Iduna- white tights, tight shorts (think biker shorts) over white tights. White short sleeve shirt. Black dress shoes. Mary Jane style preferred, dance shoes are fine, PLEASE NO TENNIS SHOES.
+* **King Agnarr**-  black dress pants, long sleeve white button up shirt, black dress shoes. Black socks. PLEASE NO TENNIS SHOES.
+* **Elsa**- nude footless tights, black flats (need to be able to kick them off), white thin strap tank top, shorts for under dress.
+* **Anna**- white tights, black dress shoes for coronation, black boot style shoe (jazz boot it great) for the costume change. Black tank top. Tight shorts (think biker shorts).
+* **Olaf**- White leggings, white short sleeve shirt, white keds style tennis shoes. White socks
+* **Green ensemble**-Snow Chorus- white long sleeve leotard (this includes little Anna/Elsa, middle Anna/Elsa). We will be providing white footless tights and white skirt
 [White leotard link](https://www.amazon.com/Bloch-Girls-Essential-Sleeve-Leotard/dp/B00PG8HEXW/ref=sr_1_8?crid=2K02D0L5VKQM&keywords=long%2Bsleeve%2Bwhite%2Bleotard%2Bsize%2B14-16&qid=1676151080&sprefix=long%2Bsleeve%2Bwhite%2Bleotard%2Bsize%2B14-16%2Caps%2C139&sr=8-8&th=1&psc=1s)
 
 ## Important dates
