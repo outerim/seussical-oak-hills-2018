@@ -5,19 +5,18 @@ title: Oak Hills Musical 2022-2023
 <div class="updates" markdown="1">
 
 # Updates
-## Saturday Feb. 11, 2023
+## Sunday Feb. 26th
 * Welcome
 * Updated Calendar
+* Updated Costume base layers
+* Music accompaniment link
 
 </div>
 
 -----------
 
 ## Welcome!
-Parents and Students- calendar is up to date. Not everyone will be called all the time so it is important to alwasy check. If you are unsure still of what enselmble you child is part of it is listed next to their name.
-PLEASE practice at home! We can not stress that enough. It is time to start thining about costume bases. If you are new to the musical or have forgetten, a base layer is what is worn under the costume. There is a list of things your students will need just below. Please find their ensemble color and see what they will be needing. NOT everyone is listed. We are still working out what eveyone needs as we are making and finding costumes. If your ensemble is not listed don't fret we will get you! We are in need of some items for costumes if you happen to have them and are willing to let us borrow them for the show. We are in need of a few kid size (preferred but we'll take adult size too) Hawaiin shirts. If you have any and are willing to let us borrow them please reach out to Savannah Jensen and let her know. THANK YOU!!
-
-Also please review and make sure their name is spelled correctly. How you see it on the website is how it will go in the program. If someones name is incorrect please email oakhillsmusical@gmail.com and let us know so we can correct it.
+Parents and Students- WOW!! We only have 3 weeks left before performances! Please review the costume base layers downbelow. Everyone has been added to the list. We will have a costume fitting Friday March 3rd after school. Please wear your base layer to the costume fitting. Leads must be MEMORIZED at this point. Also please, please, please review music at home. There are several songs that need some help. Listen the song on the link with the vocal. Then practice the songs with the accompaniment link. Reminder that everyone sings all songs (except solos parts) even if they are not on stage. Try to sing the hamronis that you learned. Students with last names A-J sing the higher part. Students with the last names K-Z sing the lower part. The Sven cast will be doing their dress rehearsal on Friday March 17th 9:00am-12:00pm. Olaf cast will be Friday March 17th 1:30pm-4:30pm. Reminder that the dress rehearsal is manditory and not opptional.
 
 ## Costumes
 It is time to start thinking of base layers for your kids.
@@ -52,7 +51,7 @@ Grayson- black dress pants, white button up shirt, black dress shoes, black sock
 [White leotard link](https://www.amazon.com/Bloch-Girls-Essential-Sleeve-Leotard/dp/B00PG8HEXW/ref=sr_1_8?crid=2K02D0L5VKQM&keywords=long%2Bsleeve%2Bwhite%2Bleotard%2Bsize%2B14-16&qid=1676151080&sprefix=long%2Bsleeve%2Bwhite%2Bleotard%2Bsize%2B14-16%2Caps%2C139&sr=8-8&th=1&psc=1s)
 
 ## Important dates
-March 17th MANDATORY dress rehearsal. First cast 9:00am-12:00pm. Second cast 1:30pm-4:30pm
+March 17th MANDATORY dress rehearsal. Sven cast 9:00am-12:00pm. Olaf cast 1:30pm-4:30pm
 March 20th-24th performances
 March 20th and 22nd 7:00pm Olaf cast performances
 March 24th 4:00pm Olaf cast performance
@@ -61,7 +60,7 @@ March 21st, 23rd, 24th 7:00pm Sven cast performances
 
 ## Music Lyrics
 
-* [Frozen Jr. youtube video](https://www.yout-ube.com/watch?v=GHTUnzUNiqk&t=3s)
+* [Frozen Jr. youtube accompaniment track](https://www.youtube.com/watch?v=KtkMj78DSDk&list=PL7tn79KTACMlacUx9anIZ2Z7PYwmUeKTR)
 * [Frozen Jr. soundtrack](https://www.yout-ube.com/watch?v=OQ76jOBvFw8&list=PLJjtr8j_-dr6C-7Xkw5PUn2QHpjSgrXZD)
 
 ## Cast Lists
