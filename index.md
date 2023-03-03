@@ -201,6 +201,7 @@ March 21st, 23rd, 24th 7:00pm Sven cast performances
 | Caiden Madsen    | Hidden folk | orange   |
 | Phin Morrow      | Hidden folk | orange   |
 | Thad Morrow      | Hidden folk | orange   |
+| Andie Nelson     | Hidden folk | orange   |
 | Whitney Neilson  | Townspeople | red      |
 | Violet Olsen     | Hidden folk | orange   |
 | Hazel Pilkington | Townspeople | red      |
